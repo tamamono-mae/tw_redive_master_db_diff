@@ -3225,4 +3225,6 @@ INSERT INTO `room_unit_comments` VALUES (/*id*/3493, /*unit_id*/111201, /*trigge
 INSERT INTO `room_unit_comments` VALUES (/*id*/3495, /*unit_id*/111201, /*trigger*/3, /*voice_id*/7, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"光吃點心\n也會膩吧！\n也吃點正餐吧！", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/3496, /*unit_id*/111201, /*trigger*/3, /*voice_id*/8, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"不知道書裡面\n有沒有藏著\n惡作劇的靈感呢～？", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/3498, /*unit_id*/111201, /*trigger*/3, /*voice_id*/12, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"好多點心！\n可以一個人全吃掉嗎？\n果然不行啊～！", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/3500, /*unit_id*/101101, /*trigger*/1, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"讀書讀得很順利喔，\n應該是因為\n哥哥的關係吧", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/3501, /*unit_id*/101101, /*trigger*/2, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"要再一起去\n與哥哥\n的回憶之地唷", /*insert_word_type*/0);
 CREATE INDEX 'room_unit_comments_0_unit_id' on 'room_unit_comments'('unit_id');

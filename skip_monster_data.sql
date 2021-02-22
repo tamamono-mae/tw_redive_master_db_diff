@@ -965,6 +965,9 @@ INSERT INTO `skip_monster_data` VALUES (/*quest_id*/12027003, /*area_id*/12027, 
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/13018001, /*area_id*/13018, /*quest_name*/"法艾頓草原‧北部 18-1", /*wave_group_id_1*/103180101, /*bg_skip_id*/101401);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/13018002, /*area_id*/13018, /*quest_name*/"法艾頓草原‧北部 18-2", /*wave_group_id_1*/103180204, /*bg_skip_id*/100691);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/13018003, /*area_id*/13018, /*quest_name*/"法艾頓草原‧北部 18-3", /*wave_group_id_1*/103180301, /*bg_skip_id*/101431);
+INSERT INTO `skip_monster_data` VALUES (/*quest_id*/13019001, /*area_id*/13019, /*quest_name*/"法艾頓草原‧南部 19-1", /*wave_group_id_1*/103190101, /*bg_skip_id*/101401);
+INSERT INTO `skip_monster_data` VALUES (/*quest_id*/13019002, /*area_id*/13019, /*quest_name*/"法艾頓草原‧南部 19-2", /*wave_group_id_1*/103190204, /*bg_skip_id*/100691);
+INSERT INTO `skip_monster_data` VALUES (/*quest_id*/13019003, /*area_id*/13019, /*quest_name*/"法艾頓草原‧南部 19-3", /*wave_group_id_1*/103190301, /*bg_skip_id*/101431);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/18001001, /*area_id*/18001, /*quest_name*/"專用裝備冒險1", /*wave_group_id_1*/108010108, /*bg_skip_id*/101331);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/18001002, /*area_id*/18001, /*quest_name*/"專用裝備冒險2", /*wave_group_id_1*/108010208, /*bg_skip_id*/101341);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/19001001, /*area_id*/19001, /*quest_name*/"神殿調查冒險Lv1", /*wave_group_id_1*/109010101, /*bg_skip_id*/102003);
