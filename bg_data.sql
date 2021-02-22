@@ -78,6 +78,7 @@ INSERT INTO `bg_data` VALUES (/*view_name*/"HATSUNE_DIARY", /*bg_id*/530200, /*e
 INSERT INTO `bg_data` VALUES (/*view_name*/"HATSUNE_DIARY_LETTER", /*bg_id*/530201, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"HATSUNE_NYX_TOP", /*bg_id*/0, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"HATSUNE_NYX_RECORD", /*bg_id*/0, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"HATSUNE_LTO", /*bg_id*/0, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"OMP_TOP", /*bg_id*/0, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"OMP_PHOTO_MEMORY", /*bg_id*/0, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"SELECT_SKIN", /*bg_id*/530010, /*event_id*/0);
@@ -129,5 +130,13 @@ INSERT INTO `bg_data` VALUES (/*view_name*/"SHIORI_EVENT_SELECT", /*bg_id*/50039
 INSERT INTO `bg_data` VALUES (/*view_name*/"MINI_GAME_TTK_BATTLE", /*bg_id*/0, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"MINI_GAME_TTK_TOP", /*bg_id*/0, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"MINI_GAME_TTK_RECORD", /*bg_id*/0, /*event_id*/0);
-INSERT INTO `bg_data` VALUES (/*view_name*/"MINI_GAME_PKB_BATTLE", /*bg_id*/0, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"TME_TOP", /*bg_id*/0, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"MINI_GAME_PKB_PLAY", /*bg_id*/0, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"MINI_GAME_PKB_TOP", /*bg_id*/0, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"MINI_GAME_PKB_DIFFICULTY_SELECT", /*bg_id*/0, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"MINI_GAME_PKB_BATTER_SELECT", /*bg_id*/0, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"MINI_GAME_PKB_HIGHSCORE_RECORD", /*bg_id*/501100, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"MINI_GAME_PKB_PLAYER_DIRECTORY", /*bg_id*/0, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"MINI_GAME_PKB_TUTORIAL", /*bg_id*/0, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"SPECIAL_STILL_YBM", /*bg_id*/0, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"STORY_EVENT_YBM_DETAIL", /*bg_id*/530030, /*event_id*/0);

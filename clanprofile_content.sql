@@ -31,3 +31,6 @@ INSERT INTO `clanprofile_content` VALUES (/*id*/29, /*name*/"元旦的日出", /
 INSERT INTO `clanprofile_content` VALUES (/*id*/30, /*name*/"new generations", /*start_time*/"2020/09/30 16:00:00", /*end_time*/"", /*disp_order*/34);
 INSERT INTO `clanprofile_content` VALUES (/*id*/31, /*name*/"不可思議之國的城堡", /*start_time*/"2020/09/10 12:00:00", /*end_time*/"", /*disp_order*/4);
 INSERT INTO `clanprofile_content` VALUES (/*id*/32, /*name*/"不可思議之國的平原", /*start_time*/"2020/09/10 12:00:00", /*end_time*/"", /*disp_order*/5);
+INSERT INTO `clanprofile_content` VALUES (/*id*/33, /*name*/"銀河", /*start_time*/"2020/06/30 12:00:00", /*end_time*/"", /*disp_order*/1);
+INSERT INTO `clanprofile_content` VALUES (/*id*/34, /*name*/"祈願竹之村的白晝", /*start_time*/"2020/06/30 12:00:00", /*end_time*/"", /*disp_order*/2);
+INSERT INTO `clanprofile_content` VALUES (/*id*/35, /*name*/"祈願竹之村的夜晚", /*start_time*/"2020/06/30 12:00:00", /*end_time*/"", /*disp_order*/3);

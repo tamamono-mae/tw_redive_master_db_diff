@@ -1,12 +1,12 @@
 CREATE TABLE 'hatsune_description' ('id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'description' TEXT NOT NULL, PRIMARY KEY('id'));
 INSERT INTO `hatsune_description` VALUES (/*id*/1, /*event_id*/10001, /*type*/1, /*description*/"可透過活動，體驗特別的劇情。\n活動劇情將於進入活動冒險後解放。");
-INSERT INTO `hatsune_description` VALUES (/*id*/2, /*event_id*/10001, /*type*/1, /*description*/"進入活動冒險後，頭目將登場。\n使用頭目券，即可挑戰頭目。\n擊敗頭目將獲得大量的討伐證，所以請盡量挑戰吧。");
+INSERT INTO `hatsune_description` VALUES (/*id*/2, /*event_id*/10001, /*type*/1, /*description*/"進入活動冒險後，BOSS將登場。\n使用BOSS挑戰券 ，即可挑戰BOSS。\n擊敗BOSS將獲得大量的討伐證，所以請盡量挑戰吧。");
 INSERT INTO `hatsune_description` VALUES (/*id*/3, /*event_id*/10001, /*type*/1, /*description*/"交換討伐證將是得到獎勵的契機。\n獎勵之中，也包含在活動中登場之角色的記憶碎片。\n多多蒐集，將角色變成夥伴吧。");
 INSERT INTO `hatsune_description` VALUES (/*id*/4, /*event_id*/10002, /*type*/1, /*description*/"可透過活動，體驗特別的劇情。\n活動劇情將於進入活動冒險後解放。");
-INSERT INTO `hatsune_description` VALUES (/*id*/5, /*event_id*/10002, /*type*/1, /*description*/"進入活動冒險後，頭目將登場。\n使用頭目券，即可挑戰頭目。\n擊敗頭目將獲得大量的討伐證，所以請盡量挑戰吧。");
+INSERT INTO `hatsune_description` VALUES (/*id*/5, /*event_id*/10002, /*type*/1, /*description*/"進入活動冒險後，BOSS將登場。\n使用BOSS挑戰券 ，即可挑戰BOSS。\n擊敗BOSS將獲得大量的討伐證，所以請盡量挑戰吧。");
 INSERT INTO `hatsune_description` VALUES (/*id*/6, /*event_id*/10002, /*type*/1, /*description*/"交換討伐證將是得到獎勵的契機。\n獎勵之中，也包含在活動中登場之角色的記憶碎片。\n多多蒐集，將角色變成夥伴吧。");
 INSERT INTO `hatsune_description` VALUES (/*id*/7, /*event_id*/10003, /*type*/1, /*description*/"可透過活動，體驗特別的劇情。\n活動劇情將於進入活動冒險後解放。");
-INSERT INTO `hatsune_description` VALUES (/*id*/8, /*event_id*/10003, /*type*/1, /*description*/"進入活動冒險後，頭目將登場。\n使用頭目券，即可挑戰頭目。\n擊敗頭目將獲得大量的討伐證，所以請盡量挑戰吧。");
+INSERT INTO `hatsune_description` VALUES (/*id*/8, /*event_id*/10003, /*type*/1, /*description*/"進入活動冒險後，BOSS將登場。\n使用BOSS挑戰券 ，即可挑戰BOSS。\n擊敗BOSS將獲得大量的討伐證，所以請盡量挑戰吧。");
 INSERT INTO `hatsune_description` VALUES (/*id*/9, /*event_id*/10003, /*type*/1, /*description*/"交換討伐證將是得到獎勵的契機。\n獎勵之中，也包含在活動中登場之角色的記憶碎片。\n多多蒐集，將角色變成夥伴吧。");
 INSERT INTO `hatsune_description` VALUES (/*id*/10, /*event_id*/10004, /*type*/1, /*description*/"可透過活動，體驗特別的劇情。\n活動劇情將於進入活動冒險後解放。");
 INSERT INTO `hatsune_description` VALUES (/*id*/11, /*event_id*/10004, /*type*/1, /*description*/"達成活動限定的任務後，可解放的角色\n即會登場。在活動期間內\n以完成任務為目標吧。");
@@ -50,7 +50,7 @@ INSERT INTO `hatsune_description` VALUES (/*id*/48, /*event_id*/10013, /*type*/1
 INSERT INTO `hatsune_description` VALUES (/*id*/49, /*event_id*/10013, /*type*/1, /*description*/"交換討伐證將是得到獎勵的契機。\n獎勵之中，也包含在活動中登場之角色的記憶碎片。\n多多蒐集，將角色變成夥伴吧。");
 INSERT INTO `hatsune_description` VALUES (/*id*/50, /*event_id*/10013, /*type*/3, /*description*/"特別戰鬥是有著 3 階段變化的戰鬥模式。\n去取得更豪華的獎勵與任務獎勵吧。由於期間中只能挑戰 1 隻，請多花點心思組成隊伍挑戰吧。");
 INSERT INTO `hatsune_description` VALUES (/*id*/51, /*event_id*/10014, /*type*/1, /*description*/"可透過活動，體驗特別的劇情。\n活動劇情將於進入活動冒險後解放。");
-INSERT INTO `hatsune_description` VALUES (/*id*/52, /*event_id*/10014, /*type*/1, /*description*/"進入活動冒險後，頭目將登場。\n使用頭目券，即可挑戰頭目。\n擊敗頭目將獲得大量的討伐證，所以請盡量挑戰吧。");
+INSERT INTO `hatsune_description` VALUES (/*id*/52, /*event_id*/10014, /*type*/1, /*description*/"進入活動冒險後，BOSS將登場。\n使用BOSS挑戰券 ，即可挑戰BOSS。\n擊敗BOSS將獲得大量的討伐證，所以請盡量挑戰吧。");
 INSERT INTO `hatsune_description` VALUES (/*id*/53, /*event_id*/10014, /*type*/1, /*description*/"強大的VERY HARD Boss登場。\nVERY HARD Boss１天能夠討伐１隻。\n做好萬全準備後，小心地進行挑戰吧。");
 INSERT INTO `hatsune_description` VALUES (/*id*/54, /*event_id*/10014, /*type*/1, /*description*/"交換討伐證將是得到獎勵的契機。\n獎勵之中，也包含在活動中登場之角色的記憶碎片。\n多多蒐集，將角色變成夥伴吧。");
 INSERT INTO `hatsune_description` VALUES (/*id*/55, /*event_id*/10015, /*type*/1, /*description*/"可透過活動，體驗特別的劇情。\n活動劇情將於進入活動冒險後解放。");
@@ -58,7 +58,7 @@ INSERT INTO `hatsune_description` VALUES (/*id*/56, /*event_id*/10015, /*type*/1
 INSERT INTO `hatsune_description` VALUES (/*id*/57, /*event_id*/10015, /*type*/1, /*description*/"交換討伐證將是得到獎勵的契機。\n獎勵之中，也包含在活動中登場之角色的記憶碎片。\n多多蒐集，將角色變成夥伴吧。");
 INSERT INTO `hatsune_description` VALUES (/*id*/58, /*event_id*/10015, /*type*/3, /*description*/"特別戰鬥是有著 3 階段變化的戰鬥模式。\n去取得更豪華的獎勵與任務獎勵吧。由於期間中只能挑戰 1 隻，請多花點心思組成隊伍挑戰吧。");
 INSERT INTO `hatsune_description` VALUES (/*id*/59, /*event_id*/10016, /*type*/1, /*description*/"可透過活動，體驗特別的劇情。\n活動劇情將於進入活動冒險後解放。");
-INSERT INTO `hatsune_description` VALUES (/*id*/60, /*event_id*/10016, /*type*/1, /*description*/"進入活動冒險後，頭目將登場。\n使用頭目券，即可挑戰頭目。\n擊敗頭目將獲得大量的討伐證，所以請盡量挑戰吧。");
+INSERT INTO `hatsune_description` VALUES (/*id*/60, /*event_id*/10016, /*type*/1, /*description*/"進入活動冒險後，BOSS將登場。\n使用BOSS挑戰券 ，即可挑戰BOSS。\n擊敗BOSS將獲得大量的討伐證，所以請盡量挑戰吧。");
 INSERT INTO `hatsune_description` VALUES (/*id*/61, /*event_id*/10016, /*type*/1, /*description*/"強大的VERY HARD Boss登場。\nVERY HARD Boss１天能夠討伐１隻。\n做好萬全準備後，小心地進行挑戰吧。");
 INSERT INTO `hatsune_description` VALUES (/*id*/62, /*event_id*/10016, /*type*/1, /*description*/"交換討伐證將是得到獎勵的契機。\n獎勵之中，也包含在活動中登場之角色的記憶碎片。\n多多蒐集，將角色變成夥伴吧。");
 INSERT INTO `hatsune_description` VALUES (/*id*/63, /*event_id*/10017, /*type*/1, /*description*/"可透過活動，體驗特別的劇情。\n活動劇情將於進入活動冒險後解放。");
@@ -69,7 +69,7 @@ INSERT INTO `hatsune_description` VALUES (/*id*/67, /*event_id*/10017, /*type*/3
 INSERT INTO `hatsune_description` VALUES (/*id*/68, /*event_id*/10017, /*type*/3, /*description*/"在展演模式中，可以重複和SPECIAL的BOSS對戰。\n另外，將戰鬥的記錄存檔後就可以回顧戰鬥內容，\n可以用來找尋您專屬的攻略法或嘗試各種編組不同的隊伍對戰。");
 INSERT INTO `hatsune_description` VALUES (/*id*/69, /*event_id*/10017, /*type*/4, /*description*/"挑戰活動任務和BOSS時，有時候會出現信賴度故事。　　　　　　　　　信賴度將會按照對話的內容提升，　　　　　　　　　　　　　　　　　　達到特定的信賴度時可獲得禮物。");
 INSERT INTO `hatsune_description` VALUES (/*id*/70, /*event_id*/10018, /*type*/1, /*description*/"可透過活動，體驗特別的劇情。\n活動劇情將於進入活動冒險後解放。");
-INSERT INTO `hatsune_description` VALUES (/*id*/71, /*event_id*/10018, /*type*/1, /*description*/"進入活動冒險後，頭目將登場。\n使用頭目券，即可挑戰頭目。\n擊敗頭目將獲得大量的討伐證，所以請盡量挑戰吧。");
+INSERT INTO `hatsune_description` VALUES (/*id*/71, /*event_id*/10018, /*type*/1, /*description*/"進入活動冒險後，BOSS將登場。\n使用BOSS挑戰券 ，即可挑戰BOSS。\n擊敗BOSS將獲得大量的討伐證，所以請盡量挑戰吧。");
 INSERT INTO `hatsune_description` VALUES (/*id*/72, /*event_id*/10018, /*type*/1, /*description*/"強大的VERY HARD Boss登場。\nVERY HARD Boss１天能夠討伐１隻。\n做好萬全準備後，小心地進行挑戰吧。");
 INSERT INTO `hatsune_description` VALUES (/*id*/73, /*event_id*/10018, /*type*/1, /*description*/"交換討伐證將是得到獎勵的契機。\n獎勵之中，也包含在活動中登場之角色的記憶碎片。\n多多蒐集，將角色變成夥伴吧。");
 INSERT INTO `hatsune_description` VALUES (/*id*/1001901, /*event_id*/10019, /*type*/1, /*description*/"可透過活動，體驗特別的劇情。\n活動劇情將於進入活動冒險後解放。");
