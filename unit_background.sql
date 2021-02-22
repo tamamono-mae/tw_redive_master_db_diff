@@ -100,3 +100,4 @@ INSERT INTO `unit_background` VALUES (/*unit_id*/111001, /*unit_name*/"優妮", 
 INSERT INTO `unit_background` VALUES (/*unit_id*/111101, /*unit_name*/"鏡華（萬聖節）", /*bg_id*/500811, /*bg_name*/"宅邸_主樓", /*position*/0.0, /*face_type*/2);
 INSERT INTO `unit_background` VALUES (/*unit_id*/111201, /*unit_name*/"禊（萬聖節）", /*bg_id*/500811, /*bg_name*/"宅邸_主樓", /*position*/0.0, /*face_type*/4);
 INSERT INTO `unit_background` VALUES (/*unit_id*/111301, /*unit_name*/"美美（萬聖節）", /*bg_id*/500811, /*bg_name*/"宅邸_主樓", /*position*/0.0, /*face_type*/4);
+INSERT INTO `unit_background` VALUES (/*unit_id*/111401, /*unit_name*/"露娜", /*bg_id*/500175, /*bg_name*/"神秘森林", /*position*/0.0, /*face_type*/4);
