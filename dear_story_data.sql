@@ -4,4 +4,5 @@ INSERT INTO `dear_story_data` VALUES (/*story_group_id*/6019, /*story_type*/6, /
 INSERT INTO `dear_story_data` VALUES (/*story_group_id*/6023, /*story_type*/6, /*value*/10023, /*title*/"森林的膽小鬼與神聖學院的問題兒童", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2019/12/31 16:00:00", /*end_time*/"2030/04/24 14:59:59");
 INSERT INTO `dear_story_data` VALUES (/*story_group_id*/6025, /*story_type*/6, /*value*/10025, /*title*/"小小勇敢的萬聖節之夜", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2020/01/31 16:00:00", /*end_time*/"2030/04/24 14:59:59");
 INSERT INTO `dear_story_data` VALUES (/*story_group_id*/6027, /*story_type*/6, /*value*/10027, /*title*/"龍的探索者們", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2020/02/27 16:00:00", /*end_time*/"2030/04/24 14:59:59");
+INSERT INTO `dear_story_data` VALUES (/*story_group_id*/6029, /*story_type*/6, /*value*/10029, /*title*/"禮物大恐慌！　蘭德索爾的聖誕老人們", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2020/03/30 16:00:00", /*end_time*/"2030/04/24 14:59:59");
 CREATE INDEX 'dear_story_data_0_value' on 'dear_story_data'('value');

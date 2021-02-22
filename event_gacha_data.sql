@@ -26,4 +26,5 @@ INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10025, /*event_id*/10025, /*g
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10026, /*event_id*/10026, /*gacha_name*/"復刻 不給布丁就搗蛋！約定的萬聖節派對", /*item_type*/2, /*item_id*/60252, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10027, /*event_id*/10027, /*gacha_name*/"龍的探索者們", /*item_type*/2, /*item_id*/60262, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10028, /*event_id*/10028, /*gacha_name*/"暮光破壞者", /*item_type*/2, /*item_id*/60272, /*cost*/1, /*repeat_step*/5);
+INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10029, /*event_id*/10029, /*gacha_name*/"禮物大騷動！蘭德索爾的聖誕老人們", /*item_type*/2, /*item_id*/60282, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/19003, /*event_id*/10003, /*gacha_name*/"吸血鬼獵人 with伊莉亞", /*item_type*/2, /*item_id*/60022, /*cost*/1, /*repeat_step*/5);
