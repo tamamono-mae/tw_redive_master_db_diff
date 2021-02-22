@@ -639,7 +639,7 @@ INSERT INTO `unit_comments` VALUES (/*id*/1057010, /*unit_id*/105731, /*use_type
 INSERT INTO `unit_comments` VALUES (/*id*/1057011, /*unit_id*/105701, /*use_type*/2, /*voice_id*/6, /*face_id*/2, /*change_time*/4.0, /*change_face*/1, /*description*/"今天是你的生日呢，\n恭喜你！\n要好好地為你慶祝一下！");
 INSERT INTO `unit_comments` VALUES (/*id*/1057012, /*unit_id*/105731, /*use_type*/2, /*voice_id*/6, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"生日快樂！　我們來\n開慶祝派對吧！　還有，\n如果有什麼想要的東西，\n就告訴我讓我送你禮物吧！");
 INSERT INTO `unit_comments` VALUES (/*id*/1058001, /*unit_id*/105801, /*use_type*/1, /*voice_id*/1, /*face_id*/1, /*change_time*/3.0, /*change_face*/2, /*description*/"嘿嘿，貪吃佩可這綽號，\n我還挺喜歡的說。　");
-INSERT INTO `unit_comments` VALUES (/*id*/1058002, /*unit_id*/105801, /*use_type*/1, /*voice_id*/2, /*face_id*/6, /*change_time*/3.2, /*change_face*/2, /*description*/"難不成你討厭\n魔物料裡嗎？\n可是我很喜歡耶。");
+INSERT INTO `unit_comments` VALUES (/*id*/1058002, /*unit_id*/105801, /*use_type*/1, /*voice_id*/2, /*face_id*/6, /*change_time*/3.2, /*change_face*/2, /*description*/"難不成你討厭\n魔物料理嗎？\n可是我很喜歡耶。");
 INSERT INTO `unit_comments` VALUES (/*id*/1058003, /*unit_id*/105801, /*use_type*/1, /*voice_id*/3, /*face_id*/4, /*change_time*/2.5, /*change_face*/7, /*description*/"咕嚕嚕嚕…\n啊，肚子叫了啦。\n不、不可以笑哦！");
 INSERT INTO `unit_comments` VALUES (/*id*/1058004, /*unit_id*/105801, /*use_type*/1, /*voice_id*/4, /*face_id*/2, /*change_time*/2.1, /*change_face*/1, /*description*/"我們去吃飯吧！\n同桌吃飯的話感情\n也會變好對吧！");
 INSERT INTO `unit_comments` VALUES (/*id*/1058005, /*unit_id*/105801, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/2.2, /*change_face*/5, /*description*/"你要給我食物嗎？\n哇，我可以喜歡你嗎？");
