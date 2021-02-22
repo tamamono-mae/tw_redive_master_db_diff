@@ -17,3 +17,4 @@ INSERT INTO `myprofile_content` VALUES (/*id*/15, /*name*/"香菇與秋季溪谷
 INSERT INTO `myprofile_content` VALUES (/*id*/16, /*name*/"香菇與小河", /*start_time*/"2020/02/18 16:00:00", /*end_time*/"", /*disp_order*/5);
 INSERT INTO `myprofile_content` VALUES (/*id*/17, /*name*/"聖誕節的早晨", /*start_time*/"2020/02/18 16:00:00", /*end_time*/"", /*disp_order*/2);
 INSERT INTO `myprofile_content` VALUES (/*id*/18, /*name*/"聖誕節的夜晚", /*start_time*/"2020/02/18 16:00:00", /*end_time*/"", /*disp_order*/3);
+INSERT INTO `myprofile_content` VALUES (/*id*/19, /*name*/"元旦的日出", /*start_time*/"2020/04/20 12:00:00", /*end_time*/"", /*disp_order*/1);

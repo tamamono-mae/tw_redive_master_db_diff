@@ -27,3 +27,4 @@ INSERT INTO `clanprofile_content` VALUES (/*id*/25, /*name*/"香菇與小河", /
 INSERT INTO `clanprofile_content` VALUES (/*id*/26, /*name*/"龍族巢穴", /*start_time*/"2020/02/18 16:00:00", /*end_time*/"", /*disp_order*/28);
 INSERT INTO `clanprofile_content` VALUES (/*id*/27, /*name*/"聖誕節的早晨", /*start_time*/"2020/02/18 16:00:00", /*end_time*/"", /*disp_order*/2);
 INSERT INTO `clanprofile_content` VALUES (/*id*/28, /*name*/"聖誕節的夜晚", /*start_time*/"2020/02/18 16:00:00", /*end_time*/"", /*disp_order*/3);
+INSERT INTO `clanprofile_content` VALUES (/*id*/29, /*name*/"元旦的日出", /*start_time*/"2020/04/20 12:00:00", /*end_time*/"", /*disp_order*/1);

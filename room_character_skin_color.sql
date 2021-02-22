@@ -90,6 +90,7 @@ INSERT INTO `room_character_skin_color` VALUES (/*character_id*/1105, /*skin_col
 INSERT INTO `room_character_skin_color` VALUES (/*character_id*/1106, /*skin_color_id*/2);
 INSERT INTO `room_character_skin_color` VALUES (/*character_id*/1107, /*skin_color_id*/1);
 INSERT INTO `room_character_skin_color` VALUES (/*character_id*/1108, /*skin_color_id*/1);
+INSERT INTO `room_character_skin_color` VALUES (/*character_id*/1110, /*skin_color_id*/2);
 INSERT INTO `room_character_skin_color` VALUES (/*character_id*/1111, /*skin_color_id*/2);
 INSERT INTO `room_character_skin_color` VALUES (/*character_id*/1112, /*skin_color_id*/1);
 INSERT INTO `room_character_skin_color` VALUES (/*character_id*/1113, /*skin_color_id*/2);
@@ -97,3 +98,12 @@ INSERT INTO `room_character_skin_color` VALUES (/*character_id*/1114, /*skin_col
 INSERT INTO `room_character_skin_color` VALUES (/*character_id*/1115, /*skin_color_id*/2);
 INSERT INTO `room_character_skin_color` VALUES (/*character_id*/1116, /*skin_color_id*/1);
 INSERT INTO `room_character_skin_color` VALUES (/*character_id*/1117, /*skin_color_id*/2);
+INSERT INTO `room_character_skin_color` VALUES (/*character_id*/1119, /*skin_color_id*/2);
+INSERT INTO `room_character_skin_color` VALUES (/*character_id*/1120, /*skin_color_id*/2);
+INSERT INTO `room_character_skin_color` VALUES (/*character_id*/1121, /*skin_color_id*/1);
+INSERT INTO `room_character_skin_color` VALUES (/*character_id*/1122, /*skin_color_id*/2);
+INSERT INTO `room_character_skin_color` VALUES (/*character_id*/1123, /*skin_color_id*/2);
+INSERT INTO `room_character_skin_color` VALUES (/*character_id*/1124, /*skin_color_id*/1);
+INSERT INTO `room_character_skin_color` VALUES (/*character_id*/1125, /*skin_color_id*/1);
+INSERT INTO `room_character_skin_color` VALUES (/*character_id*/1126, /*skin_color_id*/1);
+INSERT INTO `room_character_skin_color` VALUES (/*character_id*/1804, /*skin_color_id*/1);

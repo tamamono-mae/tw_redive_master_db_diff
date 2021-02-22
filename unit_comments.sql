@@ -1217,5 +1217,17 @@ INSERT INTO `unit_comments` VALUES (/*id*/1116009, /*unit_id*/111631, /*use_type
 INSERT INTO `unit_comments` VALUES (/*id*/1116010, /*unit_id*/111631, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"這是我的人生中\n最棒的聖誕節了！\n和你一起度過的最棒的一天，\n我絕對不會忘記的！");
 INSERT INTO `unit_comments` VALUES (/*id*/1116011, /*unit_id*/111601, /*use_type*/2, /*voice_id*/6, /*face_id*/2, /*change_time*/1.6, /*change_face*/1, /*description*/"Happy Birthday！\n來，這是禮物\n上面有我的簽名。\n要好好收藏哦！");
 INSERT INTO `unit_comments` VALUES (/*id*/1116012, /*unit_id*/111631, /*use_type*/2, /*voice_id*/6, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"生日快樂！\n唱生日快樂歌幫你慶祝哦！\n只為你一人的演唱會，\n請好好享受哦！");
+INSERT INTO `unit_comments` VALUES (/*id*/1117001, /*unit_id*/111701, /*use_type*/1, /*voice_id*/1, /*face_id*/4, /*change_time*/3.1, /*change_face*/1, /*description*/"雖說妾身\n不太喜歡「聖夜」，\n但是難得的晚宴，\n就要讓大家開心嘛♪");
+INSERT INTO `unit_comments` VALUES (/*id*/1117002, /*unit_id*/111701, /*use_type*/1, /*voice_id*/2, /*face_id*/2, /*change_time*/4.1, /*change_face*/5, /*description*/"是能襯脫出妾身美貌的\n優秀服裝呢。\n……這樣子或許可以\n誘惑那傢伙♪");
+INSERT INTO `unit_comments` VALUES (/*id*/1117003, /*unit_id*/111701, /*use_type*/1, /*voice_id*/3, /*face_id*/1, /*change_time*/3.7, /*change_face*/2, /*description*/"因為妾身現在是\n聖誕老人。\n為了炒熱聖夜的氣氛，\n你能幫幫妾身嗎？");
+INSERT INTO `unit_comments` VALUES (/*id*/1117004, /*unit_id*/111701, /*use_type*/1, /*voice_id*/4, /*face_id*/2, /*change_time*/5.2, /*change_face*/4, /*description*/"說到聖夜的晚宴，\n就得吃烤雞和蛋糕才行嘛♪\n……你、你那眼神是怎樣？\n妾、妾身才沒有喜形於色！");
+INSERT INTO `unit_comments` VALUES (/*id*/1117005, /*unit_id*/111701, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/5.0, /*change_face*/5, /*description*/"穿成這樣卻沒有準備禮物\n就太不知趣了……\n沒、沒辦法，妾身也幫那傢伙\n準備禮物吧！");
+INSERT INTO `unit_comments` VALUES (/*id*/1117006, /*unit_id*/111731, /*use_type*/1, /*voice_id*/1, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"聖、聖誕節是聖誕老人\n派送禮物的日子，\n因為妾身現在是聖誕老人……\n總、總之收下吧笨蛋～！");
+INSERT INTO `unit_comments` VALUES (/*id*/1117007, /*unit_id*/111731, /*use_type*/1, /*voice_id*/2, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"從茜里那裡借來的書上說…\n伊莉亞聖誕老人\n會送你禮物哦～☆\n……這種事怎麼有辦法說啊～～！");
+INSERT INTO `unit_comments` VALUES (/*id*/1117008, /*unit_id*/111731, /*use_type*/1, /*voice_id*/3, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"統御黑夜之人，就是妾身本人\n親自來送禮物給你！\n給妾身心懷感激的收下！\n嗯，這樣十分完美！");
+INSERT INTO `unit_comments` VALUES (/*id*/1117009, /*unit_id*/111731, /*use_type*/1, /*voice_id*/4, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"收到這個禮物，\n那傢伙會開心嗎…\n嗚…感覺\n心跳跳得好快呀…");
+INSERT INTO `unit_comments` VALUES (/*id*/1117010, /*unit_id*/111731, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"…時、時間差不多了！\n禮物準備…好了！\n心、心心、心理準備…好、好了！\n接下來只剩拿給那傢伙！");
+INSERT INTO `unit_comments` VALUES (/*id*/1117011, /*unit_id*/111701, /*use_type*/2, /*voice_id*/6, /*face_id*/6, /*change_time*/4.8, /*change_face*/2, /*description*/"妾身記得今天是\n你的生日呢。\n那麼妾身就\n幫你慶祝一下吧。");
+INSERT INTO `unit_comments` VALUES (/*id*/1117012, /*unit_id*/111731, /*use_type*/2, /*voice_id*/6, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"今天是那傢伙的生日……！\n送禮物的同時道謝……\n欸……你、什麼時候在那裡的……\n給、給妾身馬上忘記，笨蛋～！！");
 CREATE INDEX 'unit_comments_0_unit_id' on 'unit_comments'('unit_id');
 CREATE INDEX 'unit_comments_0_unit_id_1_use_type' on 'unit_comments'('unit_id','use_type');
