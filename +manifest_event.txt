@@ -1001,5 +1001,5 @@ a/event_tutorialimage_event_10045_06.unity3d,0ef4d28ff329d9adf365050645401c19,co
 a/event_tutorialimage_shiori_101.unity3d,9c7b2d6accece3e296f62a5a24da9e3e,common,204363,
 a/event_tutorialimage_shiori_20005.unity3d,a523ce31614e41a2fce8647b6538cd70,common,46848,
 a/event_tutorialimage_shiori_201.unity3d,716a140d7497ed74f0bfe18bedcd7571,common,204533,
-a/event_uek.unity3d,5d7308ed999bcb36362406895e975262,common,3648660,
+a/event_uek.unity3d,66440734ba231ba28634f2a82c015de3,common,3648659,
 a/event_uektexture.unity3d,89cc92c8858af79335efcc28867278b3,common,1223176,
