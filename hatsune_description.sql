@@ -112,6 +112,9 @@ INSERT INTO `hatsune_description` VALUES (/*id*/1002703, /*event_id*/10027, /*ty
 INSERT INTO `hatsune_description` VALUES (/*id*/1002704, /*event_id*/10027, /*type*/3, /*description*/"特別戰鬥是有著 3 階段變化的戰鬥模式。\n去取得更豪華的獎勵與任務獎勵吧。\n由於期間中只能挑戰 1 隻，請多花點心思組成隊伍挑戰吧。");
 INSERT INTO `hatsune_description` VALUES (/*id*/1002705, /*event_id*/10027, /*type*/3, /*description*/"在展演模式中，可以重複和SPECIAL的BOSS對戰。\n另外，將戰鬥的記錄存檔後就可以回顧戰鬥內容，\n可以用來找尋您專屬的攻略法或嘗試各種編組不同的隊伍對戰。");
 INSERT INTO `hatsune_description` VALUES (/*id*/1002706, /*event_id*/10027, /*type*/4, /*description*/"挑戰活動任務和BOSS時，有時候會進入\n信賴度章節。依照對話的內容將會提升信賴度，\n達到特定的信賴度時可獲得禮物。");
+INSERT INTO `hatsune_description` VALUES (/*id*/1002801, /*event_id*/10028, /*type*/1, /*description*/"可透過活動，體驗特別的劇情。\n活動劇情將於進入活動冒險後解放。");
+INSERT INTO `hatsune_description` VALUES (/*id*/1002802, /*event_id*/10028, /*type*/1, /*description*/"強大的VERY HARD Boss登場。\nVERY HARD Boss１天能夠討伐１隻。\n做好萬全準備後，小心地進行挑戰吧。");
+INSERT INTO `hatsune_description` VALUES (/*id*/1002803, /*event_id*/10028, /*type*/1, /*description*/"交換討伐證將是得到獎勵的契機。\n獎勵之中，也包含在活動中登場之角色的記憶碎片。\n多多蒐集，將角色變成夥伴吧。");
 INSERT INTO `hatsune_description` VALUES (/*id*/100210105, /*event_id*/10021, /*type*/1, /*description*/"可透過活動，體驗特別的劇情。\n活動劇情將於進入活動冒險後解放。");
 INSERT INTO `hatsune_description` VALUES (/*id*/100210106, /*event_id*/10021, /*type*/1, /*description*/"達成活動限定的任務後，可解放的角色\n即會登場。在活動期間內\n以完成任務為目標吧。");
 INSERT INTO `hatsune_description` VALUES (/*id*/100210107, /*event_id*/10021, /*type*/1, /*description*/"強大的VERY HARD Boss登場。\nVERY HARD Boss１天能夠討伐１隻。\n做好萬全準備後，小心地進行挑戰吧。");
@@ -130,4 +133,9 @@ INSERT INTO `hatsune_description` VALUES (/*id*/1001002005, /*event_id*/10010, /
 INSERT INTO `hatsune_description` VALUES (/*id*/1001702001, /*event_id*/10017, /*type*/2, /*description*/"【美食殿堂】一行人遭到一位名叫貝特魯吉烏斯的男人襲擊。\n在千鈞一髮之際將身為魔女教大罪司教的他擊退，\n與【美食殿堂】交情漸深的愛蜜莉雅一行人\n就這樣在【咲戀育幼院】住了下來。");
 INSERT INTO `hatsune_description` VALUES (/*id*/1001702002, /*event_id*/10017, /*type*/2, /*description*/"王宮騎士團因大罪司教貝特魯吉烏斯暗地裡的動作頻繁，\n而有所動作，派遣副團長克莉絲提娜前往某個村落。\n愛蜜莉雅一行人從凱留那裡得知大罪司教的動向\n他們一邊戒備著他神秘的能力，一邊前往現場。");
 INSERT INTO `hatsune_description` VALUES (/*id*/1001702003, /*event_id*/10017, /*type*/2, /*description*/"一行人趕到陷入苦戰的克莉絲提娜身邊。\n原本看似有利的情勢，卻因魔女教徒的出現瞬間逆轉。\n有愛蜜莉雅一行人加入的【美食殿堂】利用魔法的冰塊\n孤立貝特魯吉烏斯，向他發出最終的挑戰！");
+INSERT INTO `hatsune_description` VALUES (/*id*/1002802001, /*event_id*/10028, /*type*/2, /*description*/"為尋求工作而前往溪谷洞窟的杏奈。\n為尋找古文書而前往購買處的七七香。\n聽了村人的願望而朝村莊前進的流夏。\n3個人朝向各自的目的地出發了。");
+INSERT INTO `hatsune_description` VALUES (/*id*/1002802002, /*event_id*/10028, /*type*/2, /*description*/"在村裡爽快懲治了惡棍的流夏。\n與害怕報復的村人談過之後，\n她感到溪谷一帶有著暗中活躍的巨惡。\n另一方面，前往溪谷洞窟的杏奈則是……。");
+INSERT INTO `hatsune_description` VALUES (/*id*/1002802003, /*event_id*/10028, /*type*/2, /*description*/"杏奈她們雖然在溪谷洞窟開始工作了，\n但該處和先前所說的模樣完全不同，是一處被無法之徒盤據，\n充斥著嚴苛勞動條件的惡劣環境。\n此時，去採買的七七香則是……。");
+INSERT INTO `hatsune_description` VALUES (/*id*/1002802004, /*event_id*/10028, /*type*/2, /*description*/"因為某個貴族霸佔了古文書，\n七七香無法達成採購的目的。\n她在回程路上遇到惡棍襲擊，\n急忙走上通往與流夏會合的村莊之路……。");
+INSERT INTO `hatsune_description` VALUES (/*id*/1002802005, /*event_id*/10028, /*type*/2, /*description*/"知道溪谷洞窟就是惡棍的大本營後，\n流夏和七七香決定和杏奈等人會合。\n好不容易救出脫逃的杏奈等人，\n她們一時先從洞窟撤退。");
 CREATE INDEX 'hatsune_description_0_event_id_1_type' on 'hatsune_description'('event_id','type');
