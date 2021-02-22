@@ -85,3 +85,4 @@ INSERT INTO `unit_background` VALUES (/*unit_id*/109801, /*unit_name*/"拉姆", 
 INSERT INTO `unit_background` VALUES (/*unit_id*/109901, /*unit_name*/"愛蜜莉雅", /*bg_id*/500175, /*bg_name*/"神秘森林", /*position*/0.0, /*face_type*/2);
 INSERT INTO `unit_background` VALUES (/*unit_id*/110001, /*unit_name*/"鈴奈（夏日）", /*bg_id*/500683, /*bg_name*/"海_舞臺", /*position*/0.0, /*face_type*/4);
 INSERT INTO `unit_background` VALUES (/*unit_id*/110101, /*unit_name*/"伊緒（夏日）", /*bg_id*/500683, /*bg_name*/"海_舞臺", /*position*/0.0, /*face_type*/2);
+INSERT INTO `unit_background` VALUES (/*unit_id*/110301, /*unit_name*/"咲戀（夏日）", /*bg_id*/500164, /*bg_name*/"瑪爾傑海岸", /*position*/0.0, /*face_type*/2);
