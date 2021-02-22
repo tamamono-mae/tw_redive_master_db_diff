@@ -107,3 +107,5 @@ INSERT INTO `unit_background` VALUES (/*unit_id*/111701, /*unit_name*/"伊莉亞
 INSERT INTO `unit_background` VALUES (/*unit_id*/111901, /*unit_name*/"可可蘿（新年）", /*bg_id*/500910, /*bg_name*/"蘭德索爾_鬧區_接力賽", /*position*/0.0, /*face_type*/2);
 INSERT INTO `unit_background` VALUES (/*unit_id*/112001, /*unit_name*/"凱留（新年）", /*bg_id*/500910, /*bg_name*/"蘭德索爾_鬧區_接力賽", /*position*/0.0, /*face_type*/6);
 INSERT INTO `unit_background` VALUES (/*unit_id*/112101, /*unit_name*/"鈴莓（新年）", /*bg_id*/500910, /*bg_name*/"蘭德索爾_鬧區_接力賽", /*position*/0.0, /*face_type*/2);
+INSERT INTO `unit_background` VALUES (/*unit_id*/112201, /*unit_name*/"霞（魔法少女）", /*bg_id*/500010, /*bg_name*/"蘭德索爾 市中心_白天", /*position*/0.0, /*face_type*/2);
+INSERT INTO `unit_background` VALUES (/*unit_id*/112301, /*unit_name*/"栞（魔法少女）", /*bg_id*/500010, /*bg_name*/"蘭德索爾 市中心_白天", /*position*/0.0, /*face_type*/2);

@@ -67,3 +67,5 @@ INSERT INTO `tips` VALUES (/*id*/4110701, /*value*/110701, /*tips_index*/1, /*ti
 INSERT INTO `tips` VALUES (/*id*/4110801, /*value*/110801, /*tips_index*/1, /*title*/"容易被誤會");
 INSERT INTO `tips` VALUES (/*id*/4111401, /*value*/111401, /*tips_index*/1, /*title*/"可以和我做朋友嗎？");
 INSERT INTO `tips` VALUES (/*id*/4111501, /*value*/106501, /*tips_index*/1, /*title*/"我奉陪喔？");
+INSERT INTO `tips` VALUES (/*id*/4112201, /*value*/112201, /*tips_index*/1, /*title*/"Yay☆");
+INSERT INTO `tips` VALUES (/*id*/4112301, /*value*/112301, /*tips_index*/1, /*title*/"魔法少女？");
