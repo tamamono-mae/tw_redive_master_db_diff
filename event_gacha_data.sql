@@ -36,5 +36,6 @@ INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10037, /*event_id*/10037, /*g
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10038, /*event_id*/10038, /*gacha_name*/"恩賜的財團與神聖學院的問題兒童", /*item_type*/2, /*item_id*/60372, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10039, /*event_id*/10039, /*gacha_name*/"在阿斯特朗盛開的雙輪之花", /*item_type*/2, /*item_id*/60382, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10040, /*event_id*/10040, /*gacha_name*/"牧場的四農士　貧窮農場奮鬥記", /*item_type*/2, /*item_id*/60392, /*cost*/1, /*repeat_step*/5);
+INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10041, /*event_id*/10041, /*gacha_name*/"將軍道中記　白翼的武士", /*item_type*/2, /*item_id*/60402, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10042, /*event_id*/10042, /*gacha_name*/"不可思議之國的璃乃　小小愛麗絲與希望的繪本", /*item_type*/2, /*item_id*/60412, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/19003, /*event_id*/10003, /*gacha_name*/"吸血鬼獵人 with伊莉亞", /*item_type*/2, /*item_id*/60022, /*cost*/1, /*repeat_step*/5);
