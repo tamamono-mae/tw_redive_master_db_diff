@@ -901,3 +901,4 @@ INSERT INTO `skip_monster_data` VALUES (/*quest_id*/21002004, /*area_id*/21002, 
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/21002005, /*area_id*/21002, /*quest_name*/"經驗值冒險Lv5", /*wave_group_id_1*/101030303, /*bg_skip_id*/100391);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/21002006, /*area_id*/21002, /*quest_name*/"經驗值冒險Lv6", /*wave_group_id_1*/101030303, /*bg_skip_id*/100391);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/21002007, /*area_id*/21002, /*quest_name*/"經驗值冒險Lv7", /*wave_group_id_1*/101030303, /*bg_skip_id*/100391);
+INSERT INTO `skip_monster_data` VALUES (/*quest_id*/73140350, /*area_id*/11, /*quest_name*/"露娜之塔迴廊探索12月", /*wave_group_id_1*/720029005, /*bg_skip_id*/102051);
