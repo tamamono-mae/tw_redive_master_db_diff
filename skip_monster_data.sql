@@ -1669,6 +1669,7 @@ INSERT INTO `skip_monster_data` VALUES (/*quest_id*/13023002, /*area_id*/13023, 
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/13023003, /*area_id*/13023, /*quest_name*/"馬提爾德岩峰‧北部 23-3", /*wave_group_id_1*/103230305, /*bg_skip_id*/101641);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/18001001, /*area_id*/18001, /*quest_name*/"聖跡調查冒險Lv1", /*wave_group_id_1*/108010108, /*bg_skip_id*/101331);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/18001002, /*area_id*/18001, /*quest_name*/"聖跡調查冒險Lv2", /*wave_group_id_1*/108010208, /*bg_skip_id*/101341);
+INSERT INTO `skip_monster_data` VALUES (/*quest_id*/18001003, /*area_id*/18001, /*quest_name*/"聖跡調查冒險Lv3", /*wave_group_id_1*/108010308, /*bg_skip_id*/101341);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/19001001, /*area_id*/19001, /*quest_name*/"神殿調查冒險Lv1", /*wave_group_id_1*/109010101, /*bg_skip_id*/102003);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/19001002, /*area_id*/19001, /*quest_name*/"神殿調查冒險Lv2", /*wave_group_id_1*/109010201, /*bg_skip_id*/102003);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/20001101, /*area_id*/20001101, /*quest_name*/"活動01 Normal 1-1", /*wave_group_id_1*/101020403, /*bg_skip_id*/100011);
