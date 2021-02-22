@@ -1055,5 +1055,17 @@ INSERT INTO `unit_comments` VALUES (/*id*/1105009, /*unit_id*/110531, /*use_type
 INSERT INTO `unit_comments` VALUES (/*id*/1105010, /*unit_id*/110531, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"如果想著你進行演奏，\n樂音一定會有別於以往的－－\n該怎麼說才好呢……\n總之希望你聽聽看！");
 INSERT INTO `unit_comments` VALUES (/*id*/1105011, /*unit_id*/110501, /*use_type*/2, /*voice_id*/6, /*face_id*/2, /*change_time*/2.8, /*change_face*/1, /*description*/"會準備周到的！\n你說什麼，是你的生日耶？\n來，跟我手牽手，\nLet's Dance！");
 INSERT INTO `unit_comments` VALUES (/*id*/1105012, /*unit_id*/110531, /*use_type*/2, /*voice_id*/6, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"生日真是可喜可賀啊～！\n身體自己跳了起來～，啊！\n抱歉撞到你了，\n不過是柔軟的地方，應該不要緊吧？");
+INSERT INTO `unit_comments` VALUES (/*id*/1106001, /*unit_id*/110601, /*use_type*/1, /*voice_id*/1, /*face_id*/1, /*change_time*/4.2, /*change_face*/2, /*description*/"夏天的大海真是不可思議的國度。\n和我一起\n開心的渡過吧♪");
+INSERT INTO `unit_comments` VALUES (/*id*/1106002, /*unit_id*/110601, /*use_type*/1, /*voice_id*/2, /*face_id*/6, /*change_time*/5.5, /*change_face*/1, /*description*/"哼，陽光熱得\n讓人受不了啊～\n王子先生，要不要\n去那邊的樹蔭乘涼♪");
+INSERT INTO `unit_comments` VALUES (/*id*/1106003, /*unit_id*/110601, /*use_type*/1, /*voice_id*/3, /*face_id*/1, /*change_time*/4.1, /*change_face*/2, /*description*/"我切了冰涼的西瓜來了。\n在還沒變回常溫前，\n一起來吃吧～");
+INSERT INTO `unit_comments` VALUES (/*id*/1106004, /*unit_id*/110601, /*use_type*/1, /*voice_id*/4, /*face_id*/1, /*change_time*/7.9, /*change_face*/5, /*description*/"說到夏天，就想到煙火，\n在夜空綻放的大型花朵……\n唉，真想和王子先生\n單獨去看呢。");
+INSERT INTO `unit_comments` VALUES (/*id*/1106005, /*unit_id*/110601, /*use_type*/1, /*voice_id*/5, /*face_id*/6, /*change_time*/5.0, /*change_face*/2, /*description*/"這件泳裝\n是不是很適合人家？\n我想要讓王子先生看看，\n所以拚命挑選的♪");
+INSERT INTO `unit_comments` VALUES (/*id*/1106006, /*unit_id*/110631, /*use_type*/1, /*voice_id*/1, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"哎呀，心情真好啊～♪\n像這樣在海邊躺著，\n覺得全身都感受到夏天了。\n王子先生要不要也一起來啊？");
+INSERT INTO `unit_comments` VALUES (/*id*/1106007, /*unit_id*/110631, /*use_type*/1, /*voice_id*/2, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"玩偶們好像也\n曬日光浴曬得很舒服，\n王子先生要不要來這裡摸摸看？\n暖呼呼、而且毛絨絨的哦……♪");
+INSERT INTO `unit_comments` VALUES (/*id*/1106008, /*unit_id*/110631, /*use_type*/1, /*voice_id*/3, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"人家的泳裝\n輕飄飄的很可愛吧？\n你要仔細看也沒關係喔？\n再靠近一點，你看，喏♪");
+INSERT INTO `unit_comments` VALUES (/*id*/1106009, /*unit_id*/110631, /*use_type*/1, /*voice_id*/4, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"夏天的海邊真是浪漫呢。\n真想在這種地方和王子先生兩個人\n悠閒的生活呢。\n……城堡要建在哪裡好呢♪");
+INSERT INTO `unit_comments` VALUES (/*id*/1106010, /*unit_id*/110631, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"王子先生，要不要一起跳舞啊？\n真步公主和王子先生，\n專屬兩人的海邊舞會♪\n來，我們一起……咕嚕靈波～♪");
+INSERT INTO `unit_comments` VALUES (/*id*/1106011, /*unit_id*/110601, /*use_type*/2, /*voice_id*/6, /*face_id*/1, /*change_time*/6.2, /*change_face*/2, /*description*/"祝你生日快樂～\n因為天氣還很炎熱，\n今天就用和菓子和冰抹茶\n來幫你慶祝吧♪");
+INSERT INTO `unit_comments` VALUES (/*id*/1106012, /*unit_id*/110631, /*use_type*/2, /*voice_id*/6, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"今天是王子先生的生日呢。\n真的是可喜可賀的日子呀！\n我要用魔法發射慶祝的煙火，\n你要看仔細囉。");
 CREATE INDEX 'unit_comments_0_unit_id' on 'unit_comments'('unit_id');
 CREATE INDEX 'unit_comments_0_unit_id_1_use_type' on 'unit_comments'('unit_id','use_type');

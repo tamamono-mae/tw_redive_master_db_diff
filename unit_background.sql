@@ -88,3 +88,4 @@ INSERT INTO `unit_background` VALUES (/*unit_id*/110101, /*unit_name*/"伊緒（
 INSERT INTO `unit_background` VALUES (/*unit_id*/110301, /*unit_name*/"咲戀（夏日）", /*bg_id*/500164, /*bg_name*/"瑪爾傑海岸", /*position*/0.0, /*face_type*/2);
 INSERT INTO `unit_background` VALUES (/*unit_id*/110401, /*unit_name*/"真琴（夏日）", /*bg_id*/500713, /*bg_name*/"琉球風的海岸", /*position*/0.0, /*face_type*/6);
 INSERT INTO `unit_background` VALUES (/*unit_id*/110501, /*unit_name*/"香織（夏日）", /*bg_id*/500713, /*bg_name*/"琉球風的海岸", /*position*/0.0, /*face_type*/4);
+INSERT INTO `unit_background` VALUES (/*unit_id*/110601, /*unit_name*/"真步（夏日）", /*bg_id*/500713, /*bg_name*/"琉球風的海岸", /*position*/0.0, /*face_type*/4);

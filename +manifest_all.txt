@@ -2303,7 +2303,7 @@ a/all_voice_timing_111101.unity3d,95af79988daf72c4c8c2507a4073726d,tutorial1,218
 a/all_voice_timing_111201.unity3d,8d2edac447cc54d4fc434305db72107b,tutorial1,2201,
 a/all_voice_timing_111301.unity3d,cc39a4f68ef5fb449fab1ad50cf26eb5,tutorial1,2194,
 a/all_worldmap_000001.unity3d,c87da4e6ac4472118c46657d70791f3e,tutorial1,4563058,
-a/all_worldmap_000002.unity3d,9bb5d75d24aaf82a4d908c0df874f285,tutorial1,4204833,
+a/all_worldmap_000002.unity3d,a306e7a7713f2156c09675ecb373c2ca,tutorial1,4204832,
 a/all_worldmap_010001.unity3d,5ea02483d6aaa1464aab1aa94ebdbc27,tutorial1,3098527,
 a/all_worldmap_010002.unity3d,5f451a8bae01da246896f7ef995a4c5a,tutorial1,4172686,
 a/all_worldmap_010003.unity3d,a72f7bfe86f8c4594c53a451e4b183dc,tutorial1,4156688,
