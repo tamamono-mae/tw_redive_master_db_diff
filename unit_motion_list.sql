@@ -108,6 +108,7 @@ INSERT INTO `unit_motion_list` VALUES (/*unit_id*/112201, /*sp_motion*/1);
 INSERT INTO `unit_motion_list` VALUES (/*unit_id*/112301, /*sp_motion*/1);
 INSERT INTO `unit_motion_list` VALUES (/*unit_id*/112701, /*sp_motion*/1);
 INSERT INTO `unit_motion_list` VALUES (/*unit_id*/112801, /*sp_motion*/1);
+INSERT INTO `unit_motion_list` VALUES (/*unit_id*/112901, /*sp_motion*/1);
 INSERT INTO `unit_motion_list` VALUES (/*unit_id*/113001, /*sp_motion*/1);
 INSERT INTO `unit_motion_list` VALUES (/*unit_id*/180401, /*sp_motion*/1);
 INSERT INTO `unit_motion_list` VALUES (/*unit_id*/180501, /*sp_motion*/1);
