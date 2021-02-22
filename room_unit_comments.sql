@@ -3534,6 +3534,8 @@ INSERT INTO `room_unit_comments` VALUES (/*id*/3918, /*unit_id*/111001, /*trigge
 INSERT INTO `room_unit_comments` VALUES (/*id*/3919, /*unit_id*/111001, /*trigger*/3, /*voice_id*/5, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"火焰很棒啊\n那正是人類\n故事發展的起源", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/3921, /*unit_id*/111001, /*trigger*/3, /*voice_id*/7, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"嗚喔喔！\n好好奇\n每個固態食物的原理！", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/3922, /*unit_id*/111001, /*trigger*/3, /*voice_id*/8, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"好書會讓人忘記時間\n…嗯，下次\n把棉被帶來吧", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/3924, /*unit_id*/101201, /*trigger*/1, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"閃亮亮☆\n初音\n沒有什麼辦不到的☆", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/3925, /*unit_id*/101201, /*trigger*/2, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"和你在一起的時間\n拿來睡覺\n實在太浪費了～", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/3933, /*unit_id*/192101, /*trigger*/2, /*voice_id*/1, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"切嚕～☆", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/3951, /*unit_id*/110901, /*trigger*/1, /*voice_id*/1, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"切嚕～☆\n今天的琪愛兒\n也很可愛吧～？", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/3952, /*unit_id*/110901, /*trigger*/1, /*voice_id*/2, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"會不會有什麼\n有趣的事物呢～", /*insert_word_type*/0);

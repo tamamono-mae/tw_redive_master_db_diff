@@ -1,7 +1,7 @@
 CREATE TABLE 'profile_frame' ('id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'type' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, 'disp_order' INTEGER NOT NULL, PRIMARY KEY('id'));
 INSERT INTO `profile_frame` VALUES (/*id*/1, /*name*/"自動", /*type*/1, /*start_time*/"2019/02/15 15:00:00", /*end_time*/"", /*disp_order*/1);
 INSERT INTO `profile_frame` VALUES (/*id*/2, /*name*/"預設", /*type*/2, /*start_time*/"2019/02/15 15:00:00", /*end_time*/"", /*disp_order*/2);
-INSERT INTO `profile_frame` VALUES (/*id*/3, /*name*/"周年", /*type*/3, /*start_time*/"2030/04/20 12:00:00", /*end_time*/"", /*disp_order*/3);
+INSERT INTO `profile_frame` VALUES (/*id*/3, /*name*/"周年", /*type*/3, /*start_time*/"2020/08/03 16:00:00", /*end_time*/"", /*disp_order*/3);
 INSERT INTO `profile_frame` VALUES (/*id*/4, /*name*/"粉紅色", /*type*/1, /*start_time*/"2020/04/20 12:00:00", /*end_time*/"", /*disp_order*/4);
 INSERT INTO `profile_frame` VALUES (/*id*/5, /*name*/"紅色", /*type*/1, /*start_time*/"2020/04/20 12:00:00", /*end_time*/"", /*disp_order*/5);
 INSERT INTO `profile_frame` VALUES (/*id*/6, /*name*/"黃色", /*type*/1, /*start_time*/"2020/04/20 12:00:00", /*end_time*/"", /*disp_order*/6);
