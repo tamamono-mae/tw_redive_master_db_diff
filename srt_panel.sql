@@ -488,7 +488,7 @@ INSERT INTO `srt_panel` VALUES (/*reading_id*/2006001, /*reading*/"龍之吐息"
 INSERT INTO `srt_panel` VALUES (/*reading_id*/2006002, /*reading*/"幹部", /*read_type*/3, /*panel_id*/20060, /*head_symbol*/"ㄢ", /*tail_symbol*/"ㄨ", /*detail_text*/"我是【龍族巢穴】的幹部，對我伏首稱臣吧！");
 INSERT INTO `srt_panel` VALUES (/*reading_id*/2006100, /*reading*/"嘉夜", /*read_type*/1, /*panel_id*/20061, /*head_symbol*/"ㄧㄚ", /*tail_symbol*/"ㄧㄝ", /*detail_text*/"隸屬於【龍族巢穴】的龍人族挑釁者。");
 INSERT INTO `srt_panel` VALUES (/*reading_id*/2006101, /*reading*/"打架狂笨蛋", /*read_type*/3, /*panel_id*/20061, /*head_symbol*/"ㄚ", /*tail_symbol*/"ㄢ", /*detail_text*/"幹架最行。");
-INSERT INTO `srt_panel` VALUES (/*reading_id*/2006200, /*reading*/"穗希", /*read_type*/1, /*panel_id*/20062, /*head_symbol*/"ㄨㄟ", /*tail_symbol*/"ㄧ", /*detail_text*/"【龍族巢穴】的謎團重重公會長。老大。");
+INSERT INTO `srt_panel` VALUES (/*reading_id*/2006200, /*reading*/"帆稀", /*read_type*/1, /*panel_id*/20062, /*head_symbol*/"ㄨㄟ", /*tail_symbol*/"ㄧ", /*detail_text*/"【龍族巢穴】的謎團重重公會長。老大。");
 INSERT INTO `srt_panel` VALUES (/*reading_id*/2006201, /*reading*/"幫派老大", /*read_type*/3, /*panel_id*/20062, /*head_symbol*/"ㄤ", /*tail_symbol*/"ㄚ", /*detail_text*/"指大哥、首領的意思。");
 INSERT INTO `srt_panel` VALUES (/*reading_id*/2006300, /*reading*/"克蘿依", /*read_type*/1, /*panel_id*/20063, /*head_symbol*/"ㄜ", /*tail_symbol*/"ㄧ", /*detail_text*/"【聖德蕾莎女子學院好朋友社】。拿出真本事氣勢的主人。");
 INSERT INTO `srt_panel` VALUES (/*reading_id*/2006301, /*reading*/"陰暗系", /*read_type*/3, /*panel_id*/20063, /*head_symbol*/"ㄧㄣ", /*tail_symbol*/"ㄧ", /*detail_text*/"好像並不是在生氣或是心情不好。");
