@@ -1067,5 +1067,17 @@ INSERT INTO `unit_comments` VALUES (/*id*/1106009, /*unit_id*/110631, /*use_type
 INSERT INTO `unit_comments` VALUES (/*id*/1106010, /*unit_id*/110631, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"王子先生，要不要一起跳舞啊？\n真步公主和王子先生，\n專屬兩人的海邊舞會♪\n來，我們一起……咕嚕靈波～♪");
 INSERT INTO `unit_comments` VALUES (/*id*/1106011, /*unit_id*/110601, /*use_type*/2, /*voice_id*/6, /*face_id*/1, /*change_time*/6.2, /*change_face*/2, /*description*/"祝你生日快樂～\n因為天氣還很炎熱，\n今天就用和菓子和冰抹茶\n來幫你慶祝吧♪");
 INSERT INTO `unit_comments` VALUES (/*id*/1106012, /*unit_id*/110631, /*use_type*/2, /*voice_id*/6, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"今天是王子先生的生日呢。\n真的是可喜可賀的日子呀！\n我要用魔法發射慶祝的煙火，\n你要看仔細囉。");
+INSERT INTO `unit_comments` VALUES (/*id*/1107001, /*unit_id*/110701, /*use_type*/1, /*voice_id*/1, /*face_id*/6, /*change_time*/3.0, /*change_face*/4, /*description*/"說到制服就是要穿裙子……\n嗚嗚……腳邊冷颼颼的，\n讓人坐立不安……");
+INSERT INTO `unit_comments` VALUES (/*id*/1107002, /*unit_id*/110701, /*use_type*/1, /*voice_id*/2, /*face_id*/6, /*change_time*/3.7, /*change_face*/2, /*description*/"你擔心我去上學的情況嗎？\n請放心！\n有什麼萬一的話，\n我會去保健室的！");
+INSERT INTO `unit_comments` VALUES (/*id*/1107003, /*unit_id*/110701, /*use_type*/1, /*voice_id*/3, /*face_id*/6, /*change_time*/2.7, /*change_face*/2, /*description*/"學校裡面也有植物……！\n即使孤單一人，\n只要能和花兒說話\n我就不會覺得孤單了！");
+INSERT INTO `unit_comments` VALUES (/*id*/1107004, /*unit_id*/110701, /*use_type*/1, /*voice_id*/4, /*face_id*/1, /*change_time*/6.3, /*change_face*/2, /*description*/"如果沒有ＢＢ團的特訓，\n我大概光是接近學校\n就會昏迷不醒吧……嘿嘿嘿♪\n真的非常感謝你♪");
+INSERT INTO `unit_comments` VALUES (/*id*/1107005, /*unit_id*/110701, /*use_type*/1, /*voice_id*/5, /*face_id*/4, /*change_time*/7.2, /*change_face*/5, /*description*/"那、那個……\n我穿制服看起來如何呢？\n咦……很、很可愛嗎……\n啊、哇哇哇哇哇…！");
+INSERT INTO `unit_comments` VALUES (/*id*/1107006, /*unit_id*/110731, /*use_type*/1, /*voice_id*/1, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"總之就是要不起眼！\n然後，一直縮在角落！\n這樣一來，邊緣人的我也能\n和平的渡過學校生活……咿！！");
+INSERT INTO `unit_comments` VALUES (/*id*/1107007, /*unit_id*/110731, /*use_type*/1, /*voice_id*/2, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"和、和那個人一起上學……\n感覺讓人小鹿亂撞，\n會無法專心上課……哇哇！？\n我會乖乖聽課的～！");
+INSERT INTO `unit_comments` VALUES (/*id*/1107008, /*unit_id*/110731, /*use_type*/1, /*voice_id*/3, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"下、下一堂課、要團體行動……\n只能逃到保健室了……咿咿咿！\n騙、騙你的，騙你的啦！\n人家才沒有那樣想～！");
+INSERT INTO `unit_comments` VALUES (/*id*/1107009, /*unit_id*/110731, /*use_type*/1, /*voice_id*/4, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"今、今天的朋友運超讚！？\n可能會有人來跟我說話……\n必須立刻進行\n對話練習才行……！");
+INSERT INTO `unit_comments` VALUES (/*id*/1107010, /*unit_id*/110731, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"要、要趁今天、\n和那個人一起放學……哇哇！\n抱，抱歉！\n這願望對我來說太狂妄了！");
+INSERT INTO `unit_comments` VALUES (/*id*/1107011, /*unit_id*/110701, /*use_type*/2, /*voice_id*/6, /*face_id*/5, /*change_time*/6.8, /*change_face*/2, /*description*/"祝、祝祝、祝你……\n祝你生日快樂！\n是啊……光是能夠幫其他人\n慶祝生日就夠幸福了……");
+INSERT INTO `unit_comments` VALUES (/*id*/1107012, /*unit_id*/110731, /*use_type*/2, /*voice_id*/6, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"生日快樂！\n這樣的日子\n竟然能和你在一起……\n能交到朋友好開心♪");
 CREATE INDEX 'unit_comments_0_unit_id' on 'unit_comments'('unit_id');
 CREATE INDEX 'unit_comments_0_unit_id_1_use_type' on 'unit_comments'('unit_id','use_type');
