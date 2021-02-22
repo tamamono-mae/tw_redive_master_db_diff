@@ -6,3 +6,4 @@ INSERT INTO `tower_story_data` VALUES (/*story_group_id*/7004, /*story_type*/7, 
 INSERT INTO `tower_story_data` VALUES (/*story_group_id*/7005, /*story_type*/7, /*value*/5, /*title*/"惡作劇的鬼屋", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2019/08/16 16:00:00", /*end_time*/"2030/04/24 14:59:59");
 INSERT INTO `tower_story_data` VALUES (/*story_group_id*/7006, /*story_type*/7, /*value*/6, /*title*/"兩人的榮耀與羈絆相隨", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2019/10/18 16:00:00", /*end_time*/"2030/04/24 14:59:59");
 INSERT INTO `tower_story_data` VALUES (/*story_group_id*/7007, /*story_type*/7, /*value*/7, /*title*/"冥風戰記外傳‧吸血鬼傳承", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2019/12/17 16:00:00", /*end_time*/"2030/04/24 14:59:59");
+INSERT INTO `tower_story_data` VALUES (/*story_group_id*/7008, /*story_type*/7, /*value*/8, /*title*/"天真妹系Sisters！", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2020/02/17 16:00:00", /*end_time*/"2030/04/24 14:59:59");
