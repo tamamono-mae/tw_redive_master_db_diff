@@ -19,4 +19,5 @@ INSERT INTO `event_story_data` VALUES (/*story_group_id*/5021, /*story_type*/5, 
 INSERT INTO `event_story_data` VALUES (/*story_group_id*/5023, /*story_type*/5, /*value*/10023, /*title*/"森林的膽小鬼與神聖學院的問題兒童", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2020/01/02 16:00:00", /*end_time*/"2030/04/24 14:59:59");
 INSERT INTO `event_story_data` VALUES (/*story_group_id*/5025, /*story_type*/5, /*value*/10025, /*title*/"小小勇敢的萬聖節之夜！", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2020/02/04 16:00:00", /*end_time*/"2030/04/24 14:59:59");
 INSERT INTO `event_story_data` VALUES (/*story_group_id*/5027, /*story_type*/5, /*value*/10027, /*title*/"龍的探索者們", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2020/03/02 16:00:00", /*end_time*/"2030/04/24 14:59:59");
+INSERT INTO `event_story_data` VALUES (/*story_group_id*/5029, /*story_type*/5, /*value*/10029, /*title*/"禮物大騷動！蘭德索爾的聖誕老人們", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2020/04/01 16:00:00", /*end_time*/"2030/04/24 14:59:59");
 CREATE INDEX 'event_story_data_0_value' on 'event_story_data'('value');
