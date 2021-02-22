@@ -1147,5 +1147,17 @@ INSERT INTO `unit_comments` VALUES (/*id*/1112009, /*unit_id*/111231, /*use_type
 INSERT INTO `unit_comments` VALUES (/*id*/1112010, /*unit_id*/111231, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"對很多不同的人惡作劇\n雖然是很有趣，\n不過還是對哥哥惡作劇\n最開心了！");
 INSERT INTO `unit_comments` VALUES (/*id*/1112011, /*unit_id*/111201, /*use_type*/2, /*voice_id*/6, /*face_id*/2, /*change_time*/2.7, /*change_face*/1, /*description*/"哥哥，生日快樂！\n禊給你的祝福是，嗯……\n還是惡作劇吧！");
 INSERT INTO `unit_comments` VALUES (/*id*/1112012, /*unit_id*/111231, /*use_type*/2, /*voice_id*/6, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"Happy Birthday，哥哥！\n謝謝你總是\n陪禊玩耍！\n以後也要一起玩哦！");
+INSERT INTO `unit_comments` VALUES (/*id*/1113001, /*unit_id*/111301, /*use_type*/1, /*voice_id*/1, /*face_id*/3, /*change_time*/4.2, /*change_face*/1, /*description*/"要是不給我點心，\n我就要惡作劇哦～！\n呃……要做什麼惡作劇\n才好呢～？");
+INSERT INTO `unit_comments` VALUES (/*id*/1113002, /*unit_id*/111301, /*use_type*/1, /*voice_id*/2, /*face_id*/2, /*change_time*/1.4, /*change_face*/1, /*description*/"哥哥♪\n萬聖節的遊行時\n一起蹦蹦跳吧～！");
+INSERT INTO `unit_comments` VALUES (/*id*/1113003, /*unit_id*/111301, /*use_type*/1, /*voice_id*/3, /*face_id*/1, /*change_time*/5.2, /*change_face*/2, /*description*/"萬聖節好開心呢～\n美美看到大家\n很開心的樣子\n就覺得更更更～開心了～！");
+INSERT INTO `unit_comments` VALUES (/*id*/1113004, /*unit_id*/111301, /*use_type*/1, /*voice_id*/4, /*face_id*/2, /*change_time*/3.1, /*change_face*/5, /*description*/"不給糖就搗蛋～！\n欸嘿嘿，哥哥，\n給我點心♪");
+INSERT INTO `unit_comments` VALUES (/*id*/1113005, /*unit_id*/111301, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/6.0, /*change_face*/2, /*description*/"撓癢撓癢撓癢……欸嘿嘿～\n這是萬聖節的惡作劇～♪\n不給糖就搗蛋！");
+INSERT INTO `unit_comments` VALUES (/*id*/1113006, /*unit_id*/111331, /*use_type*/1, /*voice_id*/1, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"帶著笑容笑咪咪的散步的話，\n就會變出萬聖節的魔法～\n欸嘿嘿，萬聖節快樂♪");
+INSERT INTO `unit_comments` VALUES (/*id*/1113007, /*unit_id*/111331, /*use_type*/1, /*voice_id*/2, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"呼啊……萬聖節\n真是開心呢～！\n吶吶，哥哥也\n一起參加遊行吧～♪");
+INSERT INTO `unit_comments` VALUES (/*id*/1113008, /*unit_id*/111331, /*use_type*/1, /*voice_id*/3, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"萬聖節快樂♪\n哥哥，\n美美的萬聖節服裝\n適合我嗎～？");
+INSERT INTO `unit_comments` VALUES (/*id*/1113009, /*unit_id*/111331, /*use_type*/1, /*voice_id*/4, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"和哥哥一起\n過的萬聖節，\n美美會永～遠記住的♪");
+INSERT INTO `unit_comments` VALUES (/*id*/1113010, /*unit_id*/111331, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"要是每天都是萬聖節就好了……\n因為因為那樣的話，\n美美就能一～直\n和哥哥一起玩了嘛！");
+INSERT INTO `unit_comments` VALUES (/*id*/1113011, /*unit_id*/111301, /*use_type*/2, /*voice_id*/6, /*face_id*/6, /*change_time*/4.1, /*change_face*/2, /*description*/"萬聖節快……不對，\n是生日快樂！\n哥哥！");
+INSERT INTO `unit_comments` VALUES (/*id*/1113012, /*unit_id*/111331, /*use_type*/2, /*voice_id*/6, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"哥哥，\n祝你生日快樂～！\n美美呀，\n最喜歡哥哥了～♪");
 CREATE INDEX 'unit_comments_0_unit_id' on 'unit_comments'('unit_id');
 CREATE INDEX 'unit_comments_0_unit_id_1_use_type' on 'unit_comments'('unit_id','use_type');

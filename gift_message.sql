@@ -13,6 +13,7 @@ INSERT INTO `gift_message` VALUES (/*id*/2011, /*discription*/"「{0}」第{1}�
 INSERT INTO `gift_message` VALUES (/*id*/2012, /*discription*/"「{0}」第{1}天獲得的道具。", /*type_1*/17, /*type_2*/2, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/2013, /*discription*/"在「{0}」中所獲得的道具。", /*type_1*/1, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/2014, /*discription*/"這是{0}月的戰隊競賽達成{2}周的獎勵。", /*type_1*/10, /*type_2*/11, /*type_3*/19, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/2015, /*discription*/"為「{0}」的追加報酬。", /*type_1*/20, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/3001, /*discription*/"開放公會小屋2樓時所獲得的道具。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/3002, /*discription*/"開放公會小屋3樓時所獲得的道具。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9101, /*discription*/"來自營運團隊的誠意獎勵。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
@@ -70,6 +71,11 @@ INSERT INTO `gift_message` VALUES (/*id*/9510, /*discription*/"在「{0}」中�
 INSERT INTO `gift_message` VALUES (/*id*/9600, /*discription*/"這是在小遊戲中所獲得的道具。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9700, /*discription*/"「機械莉瑪來襲！」中所獲得的排名獎勵。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9701, /*discription*/"「機械莉瑪來襲！」中所獲得的攻擊獎勵。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/9702, /*discription*/"在「王都終末決戰」中所獲得的道具。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/97501, /*discription*/"在「公主招財進寶箱」中所獲得的道具。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/97502, /*discription*/"在「公主紫裝自選箱」中所獲得的道具。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/97503, /*discription*/"在「鼠年公主新春包」中所獲得的道具。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/97504, /*discription*/"在「鼠年公主禮物箱」中所獲得的道具。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/99401, /*discription*/"每日瑪那禮包的獎勵。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/99402, /*discription*/"每日轉蛋禮包的獎勵。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/99403, /*discription*/"每週轉蛋禮包的獎勵。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
@@ -234,3 +240,11 @@ INSERT INTO `gift_message` VALUES (/*id*/99561, /*discription*/"伊緒(夏日)�
 INSERT INTO `gift_message` VALUES (/*id*/99562, /*discription*/"Re：從零開始的異世界生活~合作紀念活動獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/99563, /*discription*/"迎接冬天的禮物", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/99564, /*discription*/"真步真步王國一周年紀念獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99565, /*discription*/"裝備素材數量調整獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99566, /*discription*/"香織(夏日)的碎片禮包", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99567, /*discription*/"公主六星禮包", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99568, /*discription*/"公主寶珠禮包", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99569, /*discription*/"領取時依玩家選擇獲得獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99570, /*discription*/"iOS限定鼠年禮包", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99571, /*discription*/"Google限定新春鼠年紀念包", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99572, /*discription*/"GAME STAR銀賞獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);

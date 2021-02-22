@@ -22,3 +22,6 @@ INSERT INTO `ailment_data` VALUES (/*ailment_id*/20, /*ailment_action*/9, /*ailm
 INSERT INTO `ailment_data` VALUES (/*ailment_id*/21, /*ailment_action*/56, /*ailment_detail_1*/-1, /*ailment_name*/"千里眼");
 INSERT INTO `ailment_data` VALUES (/*ailment_id*/22, /*ailment_action*/59, /*ailment_detail_1*/-1, /*ailment_name*/"妨礙恢復");
 INSERT INTO `ailment_data` VALUES (/*ailment_id*/23, /*ailment_action*/61, /*ailment_detail_1*/-1, /*ailment_name*/"恐慌");
+INSERT INTO `ailment_data` VALUES (/*ailment_id*/27, /*ailment_action*/8, /*ailment_detail_1*/10, /*ailment_name*/"暈眩");
+INSERT INTO `ailment_data` VALUES (/*ailment_id*/28, /*ailment_action*/9, /*ailment_detail_1*/5, /*ailment_name*/"詛咒");
+INSERT INTO `ailment_data` VALUES (/*ailment_id*/29, /*ailment_action*/70, /*ailment_detail_1*/-1, /*ailment_name*/"HP變化");
