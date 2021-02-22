@@ -96,3 +96,9 @@ INSERT INTO `odds_name_data` VALUES (/*id*/94, /*odds_file*/1004220101, /*name*/
 INSERT INTO `odds_name_data` VALUES (/*id*/95, /*odds_file*/1004220102, /*name*/"嘉夜的記憶碎片", /*icon_type*/99002, /*description*/"");
 INSERT INTO `odds_name_data` VALUES (/*id*/96, /*odds_file*/1004320101, /*name*/"伊緒（夏日）的記憶碎片", /*icon_type*/99002, /*description*/"");
 INSERT INTO `odds_name_data` VALUES (/*id*/97, /*odds_file*/1004320102, /*name*/"美咲的記憶碎片", /*icon_type*/99002, /*description*/"");
+INSERT INTO `odds_name_data` VALUES (/*id*/98, /*odds_file*/1004420101, /*name*/"杏奈（夏日）的記憶碎片", /*icon_type*/99002, /*description*/"");
+INSERT INTO `odds_name_data` VALUES (/*id*/99, /*odds_file*/1004420102, /*name*/"惠理子的記憶碎片", /*icon_type*/99002, /*description*/"");
+INSERT INTO `odds_name_data` VALUES (/*id*/100, /*odds_file*/"box_rank_3-8", /*name*/"隨機裝備箱", /*icon_type*/99002, /*description*/"能夠獲得隨機的裝備。");
+INSERT INTO `odds_name_data` VALUES (/*id*/101, /*odds_file*/"box_rank_3-10", /*name*/"隨機裝備箱", /*icon_type*/99002, /*description*/"能夠獲得隨機的裝備。");
+INSERT INTO `odds_name_data` VALUES (/*id*/102, /*odds_file*/"box_rank_9-13", /*name*/"隨機裝備箱", /*icon_type*/99002, /*description*/"能夠獲得隨機的裝備。");
+INSERT INTO `odds_name_data` VALUES (/*id*/103, /*odds_file*/"box_rank_11-14", /*name*/"隨機裝備箱", /*icon_type*/99002, /*description*/"能夠獲得隨機的裝備。");
