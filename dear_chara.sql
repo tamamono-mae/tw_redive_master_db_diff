@@ -2,4 +2,6 @@ CREATE TABLE 'dear_chara' ('event_id' INTEGER NOT NULL, 'chara_index' INTEGER NO
 INSERT INTO `dear_chara` VALUES (/*event_id*/10017, /*chara_index*/1, /*chara_name*/"愛蜜莉雅", /*max_dear_point*/1000, /*reference_type*/1, /*reference_id*/109901);
 INSERT INTO `dear_chara` VALUES (/*event_id*/10017, /*chara_index*/2, /*chara_name*/"雷姆", /*max_dear_point*/1000, /*reference_type*/1, /*reference_id*/109701);
 INSERT INTO `dear_chara` VALUES (/*event_id*/10017, /*chara_index*/3, /*chara_name*/"拉姆", /*max_dear_point*/1000, /*reference_type*/1, /*reference_id*/109801);
+INSERT INTO `dear_chara` VALUES (/*event_id*/10019, /*chara_index*/1, /*chara_name*/"鈴奈", /*max_dear_point*/1000, /*reference_type*/1, /*reference_id*/110001);
+INSERT INTO `dear_chara` VALUES (/*event_id*/10019, /*chara_index*/2, /*chara_name*/"美咲", /*max_dear_point*/1000, /*reference_type*/1, /*reference_id*/110201);
 CREATE INDEX 'dear_chara_0_event_id' on 'dear_chara'('event_id');
