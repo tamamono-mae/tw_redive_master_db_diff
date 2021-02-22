@@ -29,4 +29,5 @@ INSERT INTO `event_story_data` VALUES (/*story_group_id*/5040, /*story_type*/5, 
 INSERT INTO `event_story_data` VALUES (/*story_group_id*/5042, /*story_type*/5, /*value*/10042, /*title*/"不可思議之國的璃乃 小小愛麗絲與希望的繪本", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2020/09/04 16:00:00", /*end_time*/"2030/04/24 14:59:59");
 INSERT INTO `event_story_data` VALUES (/*story_group_id*/5044, /*story_type*/5, /*value*/10044, /*title*/"七夕劍客旅情譚 天際川流夏之戀", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2020/10/29 16:00:00", /*end_time*/"2030/04/24 14:59:59");
 INSERT INTO `event_story_data` VALUES (/*story_group_id*/5046, /*story_type*/5, /*value*/10046, /*title*/"美里的夏日聲援！　追夢的盛夏棒球隊", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2020/12/01 16:00:00", /*end_time*/"2030/04/24 14:59:59");
+INSERT INTO `event_story_data` VALUES (/*story_group_id*/5048, /*story_type*/5, /*value*/10048, /*title*/"歡樂‧逆轉‧天使", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2020/12/28 16:00:00", /*end_time*/"2030/04/24 14:59:59");
 CREATE INDEX 'event_story_data_0_value' on 'event_story_data'('value');
