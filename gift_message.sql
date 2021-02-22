@@ -71,7 +71,7 @@ INSERT INTO `gift_message` VALUES (/*id*/9510, /*discription*/"在「{0}」中�
 INSERT INTO `gift_message` VALUES (/*id*/9600, /*discription*/"這是在小遊戲中所獲得的道具。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9700, /*discription*/"「機械莉瑪來襲！」中所獲得的排名獎勵。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9701, /*discription*/"「機械莉瑪來襲！」中所獲得的攻擊獎勵。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
-INSERT INTO `gift_message` VALUES (/*id*/9702, /*discription*/"在「王都終末決戰」中所獲得的道具。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/9702, /*discription*/"在「王都最終決戰」中所獲得的道具。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/97501, /*discription*/"在「公主招財進寶箱」中所獲得的道具。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/97502, /*discription*/"在「公主紫裝自選箱」中所獲得的道具。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/97503, /*discription*/"在「鼠年公主新春包」中所獲得的道具。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);

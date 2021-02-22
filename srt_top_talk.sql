@@ -1,7 +1,7 @@
 CREATE TABLE 'srt_top_talk' ('id' INTEGER NOT NULL, 'talk_id' INTEGER NOT NULL, 'chara_index' INTEGER NOT NULL, 'talk_text' TEXT NOT NULL, 'sheet_name' TEXT NOT NULL, 'cue_name' TEXT NOT NULL, 'direction' INTEGER NOT NULL, PRIMARY KEY('id'));
 INSERT INTO `srt_top_talk` VALUES (/*id*/1000101, /*talk_id*/10001, /*chara_index*/1, /*talk_text*/"呵呵呵，這樣一來就能報復嘉夜夜和老大了！", /*sheet_name*/"vo_minigame_1004", /*cue_name*/"vo_minigame_1004_top_1_000", /*direction*/2);
 INSERT INTO `srt_top_talk` VALUES (/*id*/1000201, /*talk_id*/10002, /*chara_index*/1, /*talk_text*/"接龍之戰，我要找哥哥幫忙。", /*sheet_name*/"vo_minigame_1004", /*cue_name*/"vo_minigame_1004_top_1_003", /*direction*/2);
-INSERT INTO `srt_top_talk` VALUES (/*id*/1000301, /*talk_id*/10003, /*chara_index*/2, /*talk_text*/"挑釁者就是不管別人怎樣找碴都來者不拒！看我的！", /*sheet_name*/"vo_minigame_1004", /*cue_name*/"vo_minigame_1004_top_1_004", /*direction*/1);
+INSERT INTO `srt_top_talk` VALUES (/*id*/1000301, /*talk_id*/10003, /*chara_index*/2, /*talk_text*/"打手就是不管別人怎樣找碴都來者不拒！看我的！", /*sheet_name*/"vo_minigame_1004", /*cue_name*/"vo_minigame_1004_top_1_004", /*direction*/1);
 INSERT INTO `srt_top_talk` VALUES (/*id*/1000401, /*talk_id*/10004, /*chara_index*/2, /*talk_text*/"用石板進行接龍嗎……祈梨那人想的活動真有趣呢。", /*sheet_name*/"vo_minigame_1004", /*cue_name*/"vo_minigame_1004_top_1_005", /*direction*/1);
 INSERT INTO `srt_top_talk` VALUES (/*id*/1000501, /*talk_id*/10005, /*chara_index*/2, /*talk_text*/"管它是接龍還是什麼，就給他們回馬槍吧！", /*sheet_name*/"vo_minigame_1004", /*cue_name*/"vo_minigame_1004_top_1_006", /*direction*/1);
 INSERT INTO `srt_top_talk` VALUES (/*id*/1000601, /*talk_id*/10006, /*chara_index*/3, /*talk_text*/"咕麼……（我、肚子餓了）", /*sheet_name*/"vo_minigame_1004", /*cue_name*/"vo_minigame_1004_top_1_007", /*direction*/2);

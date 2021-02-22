@@ -9,3 +9,4 @@ INSERT INTO `tower_story_data` VALUES (/*story_group_id*/7007, /*story_type*/7, 
 INSERT INTO `tower_story_data` VALUES (/*story_group_id*/7008, /*story_type*/7, /*value*/8, /*title*/"天真妹系Sisters！", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2020/02/17 16:00:00", /*end_time*/"2030/04/24 14:59:59");
 INSERT INTO `tower_story_data` VALUES (/*story_group_id*/7009, /*story_type*/7, /*value*/9, /*title*/"毛茸茸的童話奇遇行", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2020/04/14 16:00:00", /*end_time*/"2030/04/24 14:59:59");
 INSERT INTO `tower_story_data` VALUES (/*story_group_id*/7010, /*story_type*/7, /*value*/10, /*title*/"教師們的指導", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2020/06/12 16:00:00", /*end_time*/"2030/04/24 14:59:59");
+INSERT INTO `tower_story_data` VALUES (/*story_group_id*/7011, /*story_type*/7, /*value*/11, /*title*/"忍劍奇幻旅程", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2020/08/14 16:00:00", /*end_time*/"2030/04/24 14:59:59");
