@@ -310,7 +310,7 @@ INSERT INTO `unit_comments` VALUES (/*id*/1026002, /*unit_id*/102601, /*use_type
 INSERT INTO `unit_comments` VALUES (/*id*/1026003, /*unit_id*/102601, /*use_type*/1, /*voice_id*/3, /*face_id*/4, /*change_time*/6.5, /*change_face*/5, /*description*/"我的肚子餓扁了啦。\n你有沒有帶什麼吃的？\n如果有好吃的麵包\n就最棒了呢～……");
 INSERT INTO `unit_comments` VALUES (/*id*/1026004, /*unit_id*/102601, /*use_type*/1, /*voice_id*/4, /*face_id*/1, /*change_time*/3.8, /*change_face*/2, /*description*/"雖然我常常\n一個人懶散閒晃，\n但是有你這樣的玩伴\n我非常開心呦ー");
 INSERT INTO `unit_comments` VALUES (/*id*/1026005, /*unit_id*/102601, /*use_type*/1, /*voice_id*/5, /*face_id*/4, /*change_time*/9.5, /*change_face*/2, /*description*/"……像我這種人，\n不太擅長\n讓人踏進自己的領域，\n但卻意外的不排斥你呢。");
-INSERT INTO `unit_comments` VALUES (/*id*/1026006, /*unit_id*/102631, /*use_type*/1, /*voice_id*/1, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"能在最愛的橡實之中\n滾來滾去……\n什麼？\n這裡是天堂嗎？");
+INSERT INTO `unit_comments` VALUES (/*id*/1026006, /*unit_id*/102631, /*use_type*/1, /*voice_id*/1, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"能在最愛的橡子之中\n滾來滾去……\n什麼？\n這裡是天堂嗎？");
 INSERT INTO `unit_comments` VALUES (/*id*/1026007, /*unit_id*/102631, /*use_type*/1, /*voice_id*/2, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"啊啊，\n沒想到這裡是\n專屬於我的地方呢……\n好像不想回去了呢。");
 INSERT INTO `unit_comments` VALUES (/*id*/1026008, /*unit_id*/102631, /*use_type*/1, /*voice_id*/3, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"雖然暖和的被子很棒，\n但被大自然包圍\n也很棒呢……");
 INSERT INTO `unit_comments` VALUES (/*id*/1026009, /*unit_id*/102631, /*use_type*/1, /*voice_id*/4, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"快點快點，你也快來這邊\n一起享受\n這個天堂……\n我旁邊，還空著呦～");
