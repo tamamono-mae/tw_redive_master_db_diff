@@ -111,4 +111,6 @@ INSERT INTO `unit_background` VALUES (/*unit_id*/112201, /*unit_name*/"霞（魔
 INSERT INTO `unit_background` VALUES (/*unit_id*/112301, /*unit_name*/"栞（魔法少女）", /*bg_id*/500010, /*bg_name*/"蘭德索爾 市中心_白天", /*position*/0.0, /*face_type*/2);
 INSERT INTO `unit_background` VALUES (/*unit_id*/112701, /*unit_name*/"鈴（遊俠）", /*bg_id*/500995, /*bg_name*/"牧場 白天", /*position*/0.0, /*face_type*/2);
 INSERT INTO `unit_background` VALUES (/*unit_id*/112801, /*unit_name*/"真陽（遊俠）", /*bg_id*/500995, /*bg_name*/"牧場 白天", /*position*/0.0, /*face_type*/2);
+INSERT INTO `unit_background` VALUES (/*unit_id*/113001, /*unit_name*/"步未（奇幻）", /*bg_id*/501000, /*bg_name*/"書中的世界_平原", /*position*/0.0, /*face_type*/2);
 INSERT INTO `unit_background` VALUES (/*unit_id*/180401, /*unit_name*/"貪吃佩可（公主）", /*bg_id*/500130, /*bg_name*/"埃斯特雷拉街道", /*position*/0.0, /*face_type*/4);
+INSERT INTO `unit_background` VALUES (/*unit_id*/180501, /*unit_name*/"可可蘿（公主）", /*bg_id*/500130, /*bg_name*/"埃斯特雷拉街道", /*position*/0.0, /*face_type*/2);

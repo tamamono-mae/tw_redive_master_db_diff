@@ -57,6 +57,7 @@ INSERT INTO `room_character_personality` VALUES (/*character_id*/1060, /*persona
 INSERT INTO `room_character_personality` VALUES (/*character_id*/1061, /*personality_id*/3);
 INSERT INTO `room_character_personality` VALUES (/*character_id*/1063, /*personality_id*/1);
 INSERT INTO `room_character_personality` VALUES (/*character_id*/1065, /*personality_id*/3);
+INSERT INTO `room_character_personality` VALUES (/*character_id*/1066, /*personality_id*/3);
 INSERT INTO `room_character_personality` VALUES (/*character_id*/1070, /*personality_id*/4);
 INSERT INTO `room_character_personality` VALUES (/*character_id*/1071, /*personality_id*/1);
 INSERT INTO `room_character_personality` VALUES (/*character_id*/1075, /*personality_id*/3);
@@ -111,6 +112,13 @@ INSERT INTO `room_character_personality` VALUES (/*character_id*/1125, /*persona
 INSERT INTO `room_character_personality` VALUES (/*character_id*/1126, /*personality_id*/3);
 INSERT INTO `room_character_personality` VALUES (/*character_id*/1127, /*personality_id*/5);
 INSERT INTO `room_character_personality` VALUES (/*character_id*/1128, /*personality_id*/3);
+INSERT INTO `room_character_personality` VALUES (/*character_id*/1129, /*personality_id*/3);
+INSERT INTO `room_character_personality` VALUES (/*character_id*/1130, /*personality_id*/1);
+INSERT INTO `room_character_personality` VALUES (/*character_id*/1131, /*personality_id*/1);
+INSERT INTO `room_character_personality` VALUES (/*character_id*/1132, /*personality_id*/4);
+INSERT INTO `room_character_personality` VALUES (/*character_id*/1133, /*personality_id*/2);
+INSERT INTO `room_character_personality` VALUES (/*character_id*/1802, /*personality_id*/1);
 INSERT INTO `room_character_personality` VALUES (/*character_id*/1804, /*personality_id*/3);
+INSERT INTO `room_character_personality` VALUES (/*character_id*/1805, /*personality_id*/1);
 INSERT INTO `room_character_personality` VALUES (/*character_id*/1909, /*personality_id*/7);
 INSERT INTO `room_character_personality` VALUES (/*character_id*/1921, /*personality_id*/8);
