@@ -78,3 +78,5 @@ INSERT INTO `odds_name_data` VALUES (/*id*/76, /*odds_file*/1003220101, /*name*/
 INSERT INTO `odds_name_data` VALUES (/*id*/77, /*odds_file*/1003220102, /*name*/"優衣的記憶碎片", /*icon_type*/99002, /*description*/"");
 INSERT INTO `odds_name_data` VALUES (/*id*/78, /*odds_file*/1003320101, /*name*/"栞（魔法少女）的記憶碎片", /*icon_type*/99002, /*description*/"");
 INSERT INTO `odds_name_data` VALUES (/*id*/79, /*odds_file*/1003320102, /*name*/"靜流的記憶碎片", /*icon_type*/99002, /*description*/"");
+INSERT INTO `odds_name_data` VALUES (/*id*/80, /*odds_file*/1003420101, /*name*/"惠理子（情人節）的記憶碎片", /*icon_type*/99002, /*description*/"");
+INSERT INTO `odds_name_data` VALUES (/*id*/81, /*odds_file*/1003420102, /*name*/"璃乃的記憶碎片", /*icon_type*/99002, /*description*/"");
