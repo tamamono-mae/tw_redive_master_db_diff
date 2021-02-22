@@ -1094,5 +1094,17 @@ INSERT INTO `unit_comments` VALUES (/*id*/1107009, /*unit_id*/110731, /*use_type
 INSERT INTO `unit_comments` VALUES (/*id*/1107010, /*unit_id*/110731, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"要、要趁今天、\n和那個人一起放學……哇哇！\n抱，抱歉！\n這願望對我來說太狂妄了！");
 INSERT INTO `unit_comments` VALUES (/*id*/1107011, /*unit_id*/110701, /*use_type*/2, /*voice_id*/6, /*face_id*/5, /*change_time*/6.8, /*change_face*/2, /*description*/"祝、祝祝、祝你……\n祝你生日快樂！\n是啊……光是能夠幫其他人\n慶祝生日就夠幸福了……");
 INSERT INTO `unit_comments` VALUES (/*id*/1107012, /*unit_id*/110731, /*use_type*/2, /*voice_id*/6, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"生日快樂！\n這樣的日子\n竟然能和你在一起……\n能交到朋友好開心♪");
+INSERT INTO `unit_comments` VALUES (/*id*/1108001, /*unit_id*/110801, /*use_type*/1, /*voice_id*/1, /*face_id*/1, /*change_time*/6.1, /*change_face*/2, /*description*/"這樣是不錯，\n不過在學校之類的，\n大家都很莫名怕我啊，\n但你好像不太一樣呢。");
+INSERT INTO `unit_comments` VALUES (/*id*/1108002, /*unit_id*/110801, /*use_type*/1, /*voice_id*/2, /*face_id*/6, /*change_time*/5.1, /*change_face*/1, /*description*/"我聽到一些傳聞，\n說你曾經想要\n吃錢？　笑死人了，\n那東西可不太好吃哦。");
+INSERT INTO `unit_comments` VALUES (/*id*/1108003, /*unit_id*/110801, /*use_type*/1, /*voice_id*/3, /*face_id*/2, /*change_time*/3.0, /*change_face*/4, /*description*/"歡迎光臨～！\n……欸，打工地方的人\n要我表現得親切一點。\n唉，有夠累人。");
+INSERT INTO `unit_comments` VALUES (/*id*/1108004, /*unit_id*/110801, /*use_type*/1, /*voice_id*/4, /*face_id*/6, /*change_time*/3.4, /*change_face*/2, /*description*/"該怎麼說，你的情緒\n不是都還不錯嘛。\n我是不清楚啦。");
+INSERT INTO `unit_comments` VALUES (/*id*/1108005, /*unit_id*/110801, /*use_type*/1, /*voice_id*/5, /*face_id*/6, /*change_time*/3.1, /*change_face*/5, /*description*/"嗚哇，真噁……\n你耍什麼帥啊？\n害我不由得\n心動了一下……覺得好噁。");
+INSERT INTO `unit_comments` VALUES (/*id*/1108006, /*unit_id*/110831, /*use_type*/1, /*voice_id*/1, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"晚上真不錯呢。該怎麼說……\n很多事就不會看得太清楚，\n能夠說些說不出口的話。\n還有……感覺蠻酷的嘛。");
+INSERT INTO `unit_comments` VALUES (/*id*/1108007, /*unit_id*/110831, /*use_type*/1, /*voice_id*/2, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"怎麼。你又迷路了嗎？\n真拿你沒辦法，我送你回去啦。\n不，不用向我道謝，沒什麼。\n只是這樣覺得啦。");
+INSERT INTO `unit_comments` VALUES (/*id*/1108008, /*unit_id*/110831, /*use_type*/1, /*voice_id*/3, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"佇立在夜晚中的神祕少女……\n這樣如何？感覺到氣氛了嗎？\n我剛好是晚班工作的休息時間啦，\n沒關係，我想這樣做啦。");
+INSERT INTO `unit_comments` VALUES (/*id*/1108009, /*unit_id*/110831, /*use_type*/1, /*voice_id*/4, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"那個啊。因為是你，我想應該是\n沒什麼特殊含意啦。不過你不要再\n沉默的盯著別人的臉看，\n會讓人莫名的心煩意亂耶。");
+INSERT INTO `unit_comments` VALUES (/*id*/1108010, /*unit_id*/110831, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"你嗎？　你要送我回家嗎？\n什麼東西，現在是誰在跟誰說話啊？\n你跟我說夜路很危險？　笑死我了，\n但還有點帥呢。");
+INSERT INTO `unit_comments` VALUES (/*id*/1108011, /*unit_id*/110801, /*use_type*/2, /*voice_id*/6, /*face_id*/1, /*change_time*/9.3, /*change_face*/5, /*description*/"那個啊。我做給弟弟們的蛋糕\n多做了一點，你要不要吃？\n我是不會勉強你啦，\n啊……還有，生快。");
+INSERT INTO `unit_comments` VALUES (/*id*/1108012, /*unit_id*/110831, /*use_type*/2, /*voice_id*/6, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"對了，\n聽說今天是你的生日啊？\n恭喜啊。真不錯呢，\n送你殺手筆劍喔。");
 CREATE INDEX 'unit_comments_0_unit_id' on 'unit_comments'('unit_id');
 CREATE INDEX 'unit_comments_0_unit_id_1_use_type' on 'unit_comments'('unit_id','use_type');
