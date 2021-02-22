@@ -110,6 +110,7 @@ INSERT INTO `unit_background` VALUES (/*unit_id*/112101, /*unit_name*/"鈴莓（
 INSERT INTO `unit_background` VALUES (/*unit_id*/112201, /*unit_name*/"霞（魔法少女）", /*bg_id*/500010, /*bg_name*/"蘭德索爾 市中心_白天", /*position*/0.0, /*face_type*/2);
 INSERT INTO `unit_background` VALUES (/*unit_id*/112301, /*unit_name*/"栞（魔法少女）", /*bg_id*/500010, /*bg_name*/"蘭德索爾 市中心_白天", /*position*/0.0, /*face_type*/2);
 INSERT INTO `unit_background` VALUES (/*unit_id*/112401, /*unit_name*/"卯月（NGs）", /*bg_id*/500920, /*bg_name*/"繆思小鎮_白天", /*position*/0.0, /*face_type*/4);
+INSERT INTO `unit_background` VALUES (/*unit_id*/112501, /*unit_name*/"凜（NGs）", /*bg_id*/500920, /*bg_name*/"繆思小鎮_白天", /*position*/0.0, /*face_type*/2);
 INSERT INTO `unit_background` VALUES (/*unit_id*/112601, /*unit_name*/"未央（NGs）", /*bg_id*/500920, /*bg_name*/"繆思小鎮_白天", /*position*/0.0, /*face_type*/4);
 INSERT INTO `unit_background` VALUES (/*unit_id*/112701, /*unit_name*/"鈴（遊俠）", /*bg_id*/500995, /*bg_name*/"牧場 白天", /*position*/0.0, /*face_type*/2);
 INSERT INTO `unit_background` VALUES (/*unit_id*/112801, /*unit_name*/"真陽（遊俠）", /*bg_id*/500995, /*bg_name*/"牧場 白天", /*position*/0.0, /*face_type*/2);
