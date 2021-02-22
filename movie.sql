@@ -22,6 +22,7 @@ INSERT INTO `movie` VALUES (/*movie_id*/1002701, /*story_group_id*/5027, /*story
 INSERT INTO `movie` VALUES (/*movie_id*/1002901, /*story_group_id*/5029, /*story_id*/5029000, /*bgm_id*/"bgm_M281", /*se_id*/"");
 INSERT INTO `movie` VALUES (/*movie_id*/1003101, /*story_group_id*/5031, /*story_id*/5031000, /*bgm_id*/"bgm_M294", /*se_id*/"");
 INSERT INTO `movie` VALUES (/*movie_id*/1003301, /*story_group_id*/5033, /*story_id*/5033000, /*bgm_id*/"bgm_M316", /*se_id*/"");
+INSERT INTO `movie` VALUES (/*movie_id*/1003801, /*story_group_id*/5038, /*story_id*/5038000, /*bgm_id*/"bgm_M343", /*se_id*/"");
 INSERT INTO `movie` VALUES (/*movie_id*/180400301, /*story_group_id*/1804, /*story_id*/1804003, /*bgm_id*/"", /*se_id*/"");
 INSERT INTO `movie` VALUES (/*movie_id*/200000101, /*story_group_id*/2000, /*story_id*/2000001, /*bgm_id*/"", /*se_id*/"amb_adv_mystery_01");
 INSERT INTO `movie` VALUES (/*movie_id*/200000102, /*story_group_id*/2000, /*story_id*/2000001, /*bgm_id*/"bgm_M38", /*se_id*/"");
@@ -182,4 +183,7 @@ INSERT INTO `movie` VALUES (/*movie_id*/503300001, /*story_group_id*/5033, /*sto
 INSERT INTO `movie` VALUES (/*movie_id*/503300601, /*story_group_id*/5033, /*story_id*/5033006, /*bgm_id*/"", /*se_id*/"");
 INSERT INTO `movie` VALUES (/*movie_id*/503300701, /*story_group_id*/5033, /*story_id*/5033007, /*bgm_id*/"", /*se_id*/"");
 INSERT INTO `movie` VALUES (/*movie_id*/503300801, /*story_group_id*/5033, /*story_id*/5033008, /*bgm_id*/"", /*se_id*/"");
+INSERT INTO `movie` VALUES (/*movie_id*/503800101, /*story_group_id*/5038, /*story_id*/5038001, /*bgm_id*/"bgm_M122_emt5038_001", /*se_id*/"");
+INSERT INTO `movie` VALUES (/*movie_id*/503800501, /*story_group_id*/5038, /*story_id*/5038005, /*bgm_id*/"bgm_M346_emt5038_005", /*se_id*/"");
+INSERT INTO `movie` VALUES (/*movie_id*/503800701, /*story_group_id*/5038, /*story_id*/5038007, /*bgm_id*/"", /*se_id*/"");
 INSERT INTO `movie` VALUES (/*movie_id*/700100001, /*story_group_id*/7001, /*story_id*/7001000, /*bgm_id*/"", /*se_id*/"");
