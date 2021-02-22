@@ -92,7 +92,9 @@ INSERT INTO `hatsune_description` VALUES (/*id*/1002303, /*event_id*/10023, /*ty
 INSERT INTO `hatsune_description` VALUES (/*id*/1002304, /*event_id*/10023, /*type*/3, /*description*/"特別戰鬥是有著 3 階段變化的戰鬥模式。\n去取得更豪華的獎勵與任務獎勵吧。\n由於期間中只能挑戰 1 隻，請多花點心思組成隊伍挑戰吧。");
 INSERT INTO `hatsune_description` VALUES (/*id*/1002305, /*event_id*/10023, /*type*/4, /*description*/"挑戰活動任務和BOSS時，有時候會進入\n信賴度章節。依照對話的內容將會提升信賴度，\n達到特定的信賴度時可獲得禮物。");
 INSERT INTO `hatsune_description` VALUES (/*id*/1002306, /*event_id*/10023, /*type*/5, /*description*/"結束在聖德蕾莎女子學院的短期入學，\n碧返回精靈之森後，\n她收到了3封信。");
-INSERT INTO `hatsune_description` VALUES (/*id*/1002801, /*event_id*/10028, /*type*/1, /*description*/"可透過活動，體驗特別的劇情。\n活動劇情將於進入活動冒險後解放。");
+INSERT INTO `hatsune_description` VALUES (/*id*/1002401, /*event_id*/10024, /*type*/1, /*description*/"可透過活動，體驗特別的劇情。\n活動劇情將於進入活動冒險後解放。");
+INSERT INTO `hatsune_description` VALUES (/*id*/1002402, /*event_id*/10024, /*type*/1, /*description*/"強大的VERY HARD Boss登場。\nVERY HARD Boss１天能夠討伐１隻。\n做好萬全準備後，小心地進行挑戰吧。");
+INSERT INTO `hatsune_description` VALUES (/*id*/1002403, /*event_id*/10024, /*type*/1, /*description*/"交換討伐證將是得到獎勵的契機。\n獎勵之中，也包含在活動中登場之角色的記憶碎片。\n多多蒐集，將角色變成夥伴吧。");
 INSERT INTO `hatsune_description` VALUES (/*id*/100210105, /*event_id*/10021, /*type*/1, /*description*/"可透過活動，體驗特別的劇情。\n活動劇情將於進入活動冒險後解放。");
 INSERT INTO `hatsune_description` VALUES (/*id*/100210106, /*event_id*/10021, /*type*/1, /*description*/"達成活動限定的任務後，可解放的角色\n即會登場。在活動期間內\n以完成任務為目標吧。");
 INSERT INTO `hatsune_description` VALUES (/*id*/100210107, /*event_id*/10021, /*type*/1, /*description*/"強大的VERY HARD Boss登場。\nVERY HARD Boss１天能夠討伐１隻。\n做好萬全準備後，小心地進行挑戰吧。");
