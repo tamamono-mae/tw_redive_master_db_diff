@@ -1,2 +1,10 @@
 CREATE TABLE 'arcade_story_list' ('story_id' INTEGER NOT NULL, 'arcade_id' INTEGER NOT NULL, 'sub_title' TEXT NOT NULL, PRIMARY KEY('story_id'));
+INSERT INTO `arcade_story_list` VALUES (/*story_id*/5021700, /*arcade_id*/1003, /*sub_title*/"與香織的海邊特訓！");
+INSERT INTO `arcade_story_list` VALUES (/*story_id*/5021701, /*arcade_id*/1003, /*sub_title*/"始於禮而止於禮");
+INSERT INTO `arcade_story_list` VALUES (/*story_id*/5021710, /*arcade_id*/1003, /*sub_title*/"挑戰自己的極限");
+INSERT INTO `arcade_story_list` VALUES (/*story_id*/5021711, /*arcade_id*/1003, /*sub_title*/"真的才是最棒的");
+INSERT INTO `arcade_story_list` VALUES (/*story_id*/5027700, /*arcade_id*/1004, /*sub_title*/"再次前往艾爾皮斯島！");
+INSERT INTO `arcade_story_list` VALUES (/*story_id*/5027701, /*arcade_id*/1004, /*sub_title*/"過熱的戰鬥");
+INSERT INTO `arcade_story_list` VALUES (/*story_id*/5027702, /*arcade_id*/1004, /*sub_title*/"真打登場");
+INSERT INTO `arcade_story_list` VALUES (/*story_id*/5027703, /*arcade_id*/1004, /*sub_title*/"戰鬥的結果……");
 CREATE INDEX 'arcade_story_list_0_arcade_id' on 'arcade_story_list'('arcade_id');

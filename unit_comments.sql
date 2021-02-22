@@ -1299,5 +1299,17 @@ INSERT INTO `unit_comments` VALUES (/*id*/1123009, /*unit_id*/112331, /*use_type
 INSERT INTO `unit_comments` VALUES (/*id*/1123010, /*unit_id*/112331, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"只要反逆獸攻擊城鎮，\n魔法少女就會繼續戰鬥。\n請你待在我身邊哦…\n因為你的存在會成為我的力量！");
 INSERT INTO `unit_comments` VALUES (/*id*/1123011, /*unit_id*/112301, /*use_type*/2, /*voice_id*/6, /*face_id*/2, /*change_time*/0.0, /*change_face*/2, /*description*/"今天是你生日吧。\n呵呵，我記得很清楚哦。\n要用魔法盛大的慶祝一番才行。");
 INSERT INTO `unit_comments` VALUES (/*id*/1123012, /*unit_id*/112331, /*use_type*/2, /*voice_id*/6, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"祝你生日快樂。\n今後也要讓我為你慶祝哦，\n從今以後一直……");
+INSERT INTO `unit_comments` VALUES (/*id*/1804001, /*unit_id*/180401, /*use_type*/1, /*voice_id*/1, /*face_id*/2, /*change_time*/4.5, /*change_face*/1, /*description*/"阿囉哈——☆\n要不要一起去散步呀？\n不要叫我公主殿下啦，\n我現在是貪吃佩可☆");
+INSERT INTO `unit_comments` VALUES (/*id*/1804002, /*unit_id*/180401, /*use_type*/1, /*voice_id*/2, /*face_id*/6, /*change_time*/10.9, /*change_face*/2, /*description*/"和平常不同的這副打扮，\n你覺得如何呢？\n好像很強？　嗯～是那種感覺嗎。\n可愛嗎？　欸嘿嘿，沒錯。");
+INSERT INTO `unit_comments` VALUES (/*id*/1804003, /*unit_id*/180401, /*use_type*/1, /*voice_id*/3, /*face_id*/1, /*change_time*/7.1, /*change_face*/2, /*description*/"從王宮溜出來見你，\n讓人感覺心跳加速呢♪\n因為也沒有隨侍的護衛，\n請你要保護我哦☆");
+INSERT INTO `unit_comments` VALUES (/*id*/1804004, /*unit_id*/180401, /*use_type*/1, /*voice_id*/4, /*face_id*/4, /*change_time*/4.2, /*change_face*/1, /*description*/"你是不是覺得我老是\n只想著食物呢？\n你答對了一半，另一半是\n…在想著你哦☆");
+INSERT INTO `unit_comments` VALUES (/*id*/1804005, /*unit_id*/180401, /*use_type*/1, /*voice_id*/5, /*face_id*/2, /*change_time*/7.7, /*change_face*/6, /*description*/"果然和你一起圍坐的餐桌\n最棒了☆　你要不要乾脆\n和我一起住在王宮？\n那樣果然不太好嗎～？");
+INSERT INTO `unit_comments` VALUES (/*id*/1804006, /*unit_id*/180431, /*use_type*/1, /*voice_id*/1, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"超火力全開☆\n我可不是只能受人保護的\n公主殿下哦？　我會為了這個國家…\n還有為了你而戰！");
+INSERT INTO `unit_comments` VALUES (/*id*/1804007, /*unit_id*/180431, /*use_type*/1, /*voice_id*/2, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"雖然我這個狀態很強大，\n不過相對的肚子會很餓哦～…\n可是那就表示…\n我能夠吃更多的飯呢☆");
+INSERT INTO `unit_comments` VALUES (/*id*/1804008, /*unit_id*/180431, /*use_type*/1, /*voice_id*/3, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"力量湧出來了，源源不絕！\n我會用這股力量保護好\n所有～的重要之物。\n這次我不會再失去任何東西了！");
+INSERT INTO `unit_comments` VALUES (/*id*/1804009, /*unit_id*/180431, /*use_type*/1, /*voice_id*/4, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"我比之前更強烈的感受到\n你的力量了…好溫暖，\n讓我不禁內心小鹿亂撞…\n欸嘿嘿，太讚了吧☆");
+INSERT INTO `unit_comments` VALUES (/*id*/1804010, /*unit_id*/180431, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"肚子餓了呢！\n來，和我一起去吃飯吧♪\n今天和明天都要\n感情融洽的吃飯☆");
+INSERT INTO `unit_comments` VALUES (/*id*/1804011, /*unit_id*/180401, /*use_type*/2, /*voice_id*/6, /*face_id*/1, /*change_time*/8.1, /*change_face*/5, /*description*/"等你生日時，\n得舉國慶祝才行呢。\n還是說我們單獨慶祝就好呢？\n…欸嘿嘿，好害羞呢☆");
+INSERT INTO `unit_comments` VALUES (/*id*/1804012, /*unit_id*/180431, /*use_type*/2, /*voice_id*/6, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"今天是你的生日對吧。\n生日快樂！　\n還有…謝謝你，\n讓我能這樣與你相遇。");
 CREATE INDEX 'unit_comments_0_unit_id' on 'unit_comments'('unit_id');
 CREATE INDEX 'unit_comments_0_unit_id_1_use_type' on 'unit_comments'('unit_id','use_type');
