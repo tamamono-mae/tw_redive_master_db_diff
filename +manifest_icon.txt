@@ -409,7 +409,7 @@ a/icon_icon_emblem_10201264.unity3d,3c6a3ca43965f3b3616946c029272ba4,tutorial1,9
 a/icon_icon_emblem_10201265.unity3d,fecadfed10aad27f5e94ae90e0bd92b7,tutorial1,5826,
 a/icon_icon_emblem_10201266.unity3d,0b9ed20aee8ae2c6d0e87386eaaf7a79,tutorial1,6786,
 a/icon_icon_emblem_10201267.unity3d,d166ea08585fe29f54c7d5cb64a6ab1b,tutorial1,8979,
-a/icon_icon_emblem_10201268.unity3d,3ac5481e32709b4829b746651b65e8b6,tutorial1,6056,
+a/icon_icon_emblem_10201268.unity3d,3d3bd478d6529a9e0370fddc1b1d2575,tutorial1,6525,
 a/icon_icon_emblem_10201269.unity3d,b9d99f234ea5aaecdd08755ecdc3c7f4,tutorial1,6962,
 a/icon_icon_emblem_10201270.unity3d,166050da34e8fd0d02961dcc2eab8c63,tutorial1,9032,
 a/icon_icon_emblem_10201271.unity3d,5139d74fbdf2d369fca89fc000f6afb0,tutorial1,9167,
