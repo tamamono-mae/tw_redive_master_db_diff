@@ -905,8 +905,13 @@ INSERT INTO `skip_monster_data` VALUES (/*quest_id*/12025003, /*area_id*/12025, 
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/12026001, /*area_id*/12026, /*quest_name*/"佩特羅大森林‧西部 26-1", /*wave_group_id_1*/101260605, /*bg_skip_id*/101641);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/12026002, /*area_id*/12026, /*quest_name*/"佩特羅大森林‧西部 26-2", /*wave_group_id_1*/101260605, /*bg_skip_id*/101691);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/12026003, /*area_id*/12026, /*quest_name*/"佩特羅大森林‧西部 26-3", /*wave_group_id_1*/101260605, /*bg_skip_id*/101841);
+INSERT INTO `skip_monster_data` VALUES (/*quest_id*/13018001, /*area_id*/13018, /*quest_name*/"法艾頓草原‧北部 18-1", /*wave_group_id_1*/103180101, /*bg_skip_id*/101401);
+INSERT INTO `skip_monster_data` VALUES (/*quest_id*/13018002, /*area_id*/13018, /*quest_name*/"法艾頓草原‧北部 18-2", /*wave_group_id_1*/103180204, /*bg_skip_id*/100691);
+INSERT INTO `skip_monster_data` VALUES (/*quest_id*/13018003, /*area_id*/13018, /*quest_name*/"法艾頓草原‧北部 18-3", /*wave_group_id_1*/103180301, /*bg_skip_id*/101431);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/18001001, /*area_id*/18001, /*quest_name*/"專用裝備冒險1", /*wave_group_id_1*/108010108, /*bg_skip_id*/101331);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/18001002, /*area_id*/18001, /*quest_name*/"專用裝備冒險2", /*wave_group_id_1*/108010208, /*bg_skip_id*/101341);
+INSERT INTO `skip_monster_data` VALUES (/*quest_id*/19001001, /*area_id*/19001, /*quest_name*/"神殿調查冒險Lv1", /*wave_group_id_1*/109010101, /*bg_skip_id*/102003);
+INSERT INTO `skip_monster_data` VALUES (/*quest_id*/19001002, /*area_id*/19001, /*quest_name*/"神殿調查冒險Lv2", /*wave_group_id_1*/109010201, /*bg_skip_id*/102003);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/21001001, /*area_id*/21001, /*quest_name*/"瑪那冒險Lv1", /*wave_group_id_1*/101080703, /*bg_skip_id*/100051);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/21001002, /*area_id*/21001, /*quest_name*/"瑪那冒險Lv2", /*wave_group_id_1*/101080703, /*bg_skip_id*/100051);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/21001003, /*area_id*/21001, /*quest_name*/"瑪那冒險Lv3", /*wave_group_id_1*/101080703, /*bg_skip_id*/100051);

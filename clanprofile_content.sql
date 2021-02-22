@@ -19,7 +19,7 @@ INSERT INTO `clanprofile_content` VALUES (/*id*/17, /*name*/"傍晚的海岸", /
 INSERT INTO `clanprofile_content` VALUES (/*id*/18, /*name*/"夜間的海岸", /*start_time*/"2019/10/15 12:00:00", /*end_time*/"", /*disp_order*/8);
 INSERT INTO `clanprofile_content` VALUES (/*id*/19, /*name*/"海中的背景", /*start_time*/"2019/10/15 12:00:00", /*end_time*/"", /*disp_order*/5);
 INSERT INTO `clanprofile_content` VALUES (/*id*/20, /*name*/"？？？", /*start_time*/"2019/10/15 12:00:00", /*end_time*/"", /*disp_order*/24);
-INSERT INTO `clanprofile_content` VALUES (/*id*/21, /*name*/"聖德蕾莎女子學院（好朋友社）", /*start_time*/"2029/01/02 16:00:00", /*end_time*/"", /*disp_order*/25);
+INSERT INTO `clanprofile_content` VALUES (/*id*/21, /*name*/"聖德蕾莎女子學院（好朋友社）", /*start_time*/"2020/01/02 16:00:00", /*end_time*/"", /*disp_order*/25);
 INSERT INTO `clanprofile_content` VALUES (/*id*/22, /*name*/"萬聖節的白天", /*start_time*/"2019/12/12 16:00:00", /*end_time*/"", /*disp_order*/3);
 INSERT INTO `clanprofile_content` VALUES (/*id*/23, /*name*/"萬聖節的夜晚", /*start_time*/"2019/12/12 16:00:00", /*end_time*/"", /*disp_order*/4);
 INSERT INTO `clanprofile_content` VALUES (/*id*/24, /*name*/"香菇與秋季溪谷", /*start_time*/"2019/12/12 16:00:00", /*end_time*/"", /*disp_order*/1);
