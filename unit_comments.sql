@@ -1,6 +1,6 @@
 CREATE TABLE 'unit_comments' ('id' INTEGER NOT NULL, 'unit_id' INTEGER NOT NULL, 'use_type' INTEGER NOT NULL, 'voice_id' INTEGER NOT NULL, 'face_id' INTEGER NOT NULL, 'change_time' REAL NOT NULL, 'change_face' INTEGER NOT NULL, 'description' TEXT NOT NULL, PRIMARY KEY('id'));
 INSERT INTO `unit_comments` VALUES (/*id*/1001001, /*unit_id*/100101, /*use_type*/1, /*voice_id*/1, /*face_id*/1, /*change_time*/4.0, /*change_face*/2, /*description*/"若每個人都能夠帶著笑容\n那我也一定能夠笑著的呢！\n所以說，SmileSmile！");
-INSERT INTO `unit_comments` VALUES (/*id*/1001002, /*unit_id*/100101, /*use_type*/1, /*voice_id*/2, /*face_id*/1, /*change_time*/3.0, /*change_face*/2, /*description*/"有困難的時候就要互相幫助！\n有什麼事就找我商量吧！\n相信我一定能幫得上忙的！");
+INSERT INTO `unit_comments` VALUES (/*id*/1001002, /*unit_id*/100101, /*use_type*/1, /*voice_id*/2, /*face_id*/1, /*change_time*/3.0, /*change_face*/2, /*description*/"有困難的時候就互相幫助幫助！\n有什麼事就找我商量吧！\n相信我一定能幫得上忙的！");
 INSERT INTO `unit_comments` VALUES (/*id*/1001003, /*unit_id*/100101, /*use_type*/1, /*voice_id*/3, /*face_id*/1, /*change_time*/7.5, /*change_face*/2, /*description*/"無論什麼時候健康都是最重要的！\n所以累了的話得要好好休息唷？\n我嗎……還很有精神的呢。");
 INSERT INTO `unit_comments` VALUES (/*id*/1001004, /*unit_id*/100101, /*use_type*/1, /*voice_id*/4, /*face_id*/5, /*change_time*/6.0, /*change_face*/2, /*description*/"偷偷告訴你喔……？\n和你在一起我就很開心呢！\n欸嘿嘿……謝謝啦♪");
 INSERT INTO `unit_comments` VALUES (/*id*/1001005, /*unit_id*/100101, /*use_type*/1, /*voice_id*/5, /*face_id*/4, /*change_time*/6.0, /*change_face*/6, /*description*/"為什麼呢……有時候\n胸口這會變得暖暖的。\n難道是感冒了嗎！？");
