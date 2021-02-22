@@ -3129,7 +3129,7 @@ INSERT INTO `room_unit_comments` VALUES (/*id*/3383, /*unit_id*/107001, /*trigge
 INSERT INTO `room_unit_comments` VALUES (/*id*/3384, /*unit_id*/107001, /*trigger*/2, /*voice_id*/1, /*beloved_step*/1, /*time*/1, /*face_id*/1, /*description*/"……\n早安\n……還在早上呦", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/3385, /*unit_id*/107001, /*trigger*/2, /*voice_id*/2, /*beloved_step*/1, /*time*/2, /*face_id*/1, /*description*/"我要吃飯\n……怎麼了？\n趕快拿來", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/3386, /*unit_id*/107001, /*trigger*/2, /*voice_id*/3, /*beloved_step*/1, /*time*/3, /*face_id*/1, /*description*/"快點睡\n如果熬夜\n會長不高呦？", /*insert_word_type*/0);
-INSERT INTO `room_unit_comments` VALUES (/*id*/3388, /*unit_id*/107001, /*trigger*/3, /*voice_id*/2, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"比真崎\n要來的\n好坐吧", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/3388, /*unit_id*/107001, /*trigger*/3, /*voice_id*/2, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"比真軌\n要來的\n好坐吧", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/3389, /*unit_id*/107001, /*trigger*/3, /*voice_id*/3, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"構造意外的\n很複雜呢", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/3390, /*unit_id*/107001, /*trigger*/3, /*voice_id*/4, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"如果要模仿，\n就得連香味\n都重現才行", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/3391, /*unit_id*/107001, /*trigger*/3, /*voice_id*/5, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"燃燒現象\n很難\n模仿呢", /*insert_word_type*/0);
