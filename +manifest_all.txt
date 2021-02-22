@@ -57,7 +57,7 @@ a/all_atlasdungeoncourse31003.unity3d,397d61b7d89d89d2e05550e0c1e487b4,tutorial1
 a/all_atlasdungeoncourse31004.unity3d,e8590411afd81b6846321ab7ed7a2556,tutorial1,118289,
 a/all_atlasdungeoncourse31005.unity3d,33dd1894418eeaeb05d6f43522beab80,tutorial1,174590,
 a/all_atlasdungeonprogress.unity3d,4d1e70d4012feb79f4f354780298c186,tutorial1,60218,
-a/all_atlasekidencommon.unity3d,f117a0500fbd24478e8216d083003c7a,tutorial1,403967,
+a/all_atlasekidencommon.unity3d,3eafeec407294d97a745807f958493be,tutorial1,398902,
 a/all_atlasekidenface.unity3d,3a3d26e00c094e5166034c22efbda8fe,tutorial1,303614,
 a/all_atlasemblem.unity3d,2f5cac4cfa7dbc1ed46a7921feb4cd96,tutorial1,5718,
 a/all_atlasevent.unity3d,f10e0572f4735a718a3794a11ae8bc64,tutorial1,207661,
