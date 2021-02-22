@@ -42,7 +42,7 @@ INSERT INTO `unit_background` VALUES (/*unit_id*/104501, /*unit_name*/"遠見 �
 INSERT INTO `unit_background` VALUES (/*unit_id*/104601, /*unit_name*/"宮坂 珠希", /*bg_id*/500070, /*bg_name*/"墨丘利財團 據點", /*position*/0.0, /*face_type*/3);
 INSERT INTO `unit_background` VALUES (/*unit_id*/104701, /*unit_name*/"白銀 純", /*bg_id*/500090, /*bg_name*/"蘭德索爾 王城入口", /*position*/0.0, /*face_type*/1);
 INSERT INTO `unit_background` VALUES (/*unit_id*/104801, /*unit_name*/"大神 美冬", /*bg_id*/500070, /*bg_name*/"墨丘利財團 據點", /*position*/0.0, /*face_type*/2);
-INSERT INTO `unit_background` VALUES (/*unit_id*/104901, /*unit_name*/"星野 静流", /*bg_id*/500030, /*bg_name*/"蘭德索爾 鬧區", /*position*/0.0, /*face_type*/4);
+INSERT INTO `unit_background` VALUES (/*unit_id*/104901, /*unit_name*/"星野 靜流", /*bg_id*/500030, /*bg_name*/"蘭德索爾 鬧區", /*position*/0.0, /*face_type*/4);
 INSERT INTO `unit_background` VALUES (/*unit_id*/105001, /*unit_name*/"玉泉 美咲", /*bg_id*/500080, /*bg_name*/"月光學院", /*position*/0.0, /*face_type*/2);
 INSERT INTO `unit_background` VALUES (/*unit_id*/105101, /*unit_name*/"宵濱 深月", /*bg_id*/500050, /*bg_name*/"蘭德索爾 餐廳內", /*position*/0.0, /*face_type*/6);
 INSERT INTO `unit_background` VALUES (/*unit_id*/105201, /*unit_name*/"莉瑪", /*bg_id*/500150, /*bg_name*/"伊麗莎白牧場 據點", /*position*/0.0, /*face_type*/9);

@@ -42,7 +42,7 @@ INSERT INTO `actual_unit_background` VALUES (/*unit_id*/104532, /*unit_name*/"�
 INSERT INTO `actual_unit_background` VALUES (/*unit_id*/104632, /*unit_name*/"宮坂 珠希", /*bg_id*/510300, /*face_type*/2);
 INSERT INTO `actual_unit_background` VALUES (/*unit_id*/104731, /*unit_name*/"白銀 純", /*bg_id*/510240, /*face_type*/2);
 INSERT INTO `actual_unit_background` VALUES (/*unit_id*/104831, /*unit_name*/"大神 美冬", /*bg_id*/510290, /*face_type*/4);
-INSERT INTO `actual_unit_background` VALUES (/*unit_id*/104931, /*unit_name*/"星野 静流", /*bg_id*/510090, /*face_type*/2);
+INSERT INTO `actual_unit_background` VALUES (/*unit_id*/104931, /*unit_name*/"星野 靜流", /*bg_id*/510090, /*face_type*/2);
 INSERT INTO `actual_unit_background` VALUES (/*unit_id*/105031, /*unit_name*/"玉泉 美咲", /*bg_id*/510120, /*face_type*/4);
 INSERT INTO `actual_unit_background` VALUES (/*unit_id*/105131, /*unit_name*/"宵濱 深月", /*bg_id*/510140, /*face_type*/2);
 INSERT INTO `actual_unit_background` VALUES (/*unit_id*/105231, /*unit_name*/"莉瑪", /*bg_id*/510100, /*face_type*/2);
@@ -76,7 +76,7 @@ INSERT INTO `actual_unit_background` VALUES (/*unit_id*/108731, /*unit_name*/"�
 INSERT INTO `actual_unit_background` VALUES (/*unit_id*/108831, /*unit_name*/"草野 優衣", /*bg_id*/510220, /*face_type*/2);
 INSERT INTO `actual_unit_background` VALUES (/*unit_id*/108931, /*unit_name*/"士条 怜", /*bg_id*/510350, /*face_type*/2);
 INSERT INTO `actual_unit_background` VALUES (/*unit_id*/109031, /*unit_name*/"倉石 惠理子", /*bg_id*/510300, /*face_type*/4);
-INSERT INTO `actual_unit_background` VALUES (/*unit_id*/109131, /*unit_name*/"星野 静流", /*bg_id*/510090, /*face_type*/2);
+INSERT INTO `actual_unit_background` VALUES (/*unit_id*/109131, /*unit_name*/"星野 靜流", /*bg_id*/510090, /*face_type*/2);
 INSERT INTO `actual_unit_background` VALUES (/*unit_id*/109531, /*unit_name*/"遠見 空花", /*bg_id*/510150, /*face_type*/4);
 INSERT INTO `actual_unit_background` VALUES (/*unit_id*/109631, /*unit_name*/"妮諾・珠貝爾", /*bg_id*/510350, /*face_type*/9);
 INSERT INTO `actual_unit_background` VALUES (/*unit_id*/110031, /*unit_name*/"美波 鈴奈", /*bg_id*/510250, /*face_type*/9);
