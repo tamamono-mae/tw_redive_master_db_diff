@@ -12,7 +12,7 @@ INSERT INTO `gift_message` VALUES (/*id*/2010, /*discription*/"補發「{0}」�
 INSERT INTO `gift_message` VALUES (/*id*/2011, /*discription*/"「{0}」第{1}日「{2}」中獲得的道具。", /*type_1*/1, /*type_2*/2, /*type_3*/16, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/2012, /*discription*/"「{0}」第{1}天獲得的道具。", /*type_1*/17, /*type_2*/2, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/2013, /*discription*/"在「{0}」中所獲得的道具。", /*type_1*/1, /*type_2*/0, /*type_3*/0, /*type_4*/0);
-INSERT INTO `gift_message` VALUES (/*id*/2014, /*discription*/"{0}月クランバトル{2}周到達報酬です。", /*type_1*/10, /*type_2*/11, /*type_3*/19, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/2014, /*discription*/"這是{0}月的戰隊競賽達成{2}周的獎勵。", /*type_1*/10, /*type_2*/11, /*type_3*/19, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/3001, /*discription*/"開放公會小屋2樓時所獲得的道具。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/3002, /*discription*/"開放公會小屋3樓時所獲得的道具。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9101, /*discription*/"來自營運團隊的誠意獎勵。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
@@ -49,8 +49,8 @@ INSERT INTO `gift_message` VALUES (/*id*/9312, /*discription*/"超過持有上�
 INSERT INTO `gift_message` VALUES (/*id*/9313, /*discription*/"超過持有上限後所獲得的角色交換獎勵。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9314, /*discription*/"轉蛋更新時，角色交換Pt所轉換的道具。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9315, /*discription*/"轉換體力後所獲得的硬幣。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
-INSERT INTO `gift_message` VALUES (/*id*/9316, /*discription*/"SPフェスキャラ交換Ptを変換したアイテムです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
-INSERT INTO `gift_message` VALUES (/*id*/9317, /*discription*/"フレンドサポートで獲得した報酬です。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/9316, /*discription*/"這是特別祭典角色交換Pt所轉換的物品。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/9317, /*discription*/"這是協助朋友而獲得的獎勵。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9401, /*discription*/"每日寶石禮包的獎勵。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9402, /*discription*/"探索禮包的道具。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9403, /*discription*/"購買道具裝備包Ⅰ所獲得的道具。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
@@ -229,3 +229,8 @@ INSERT INTO `gift_message` VALUES (/*id*/99556, /*discription*/"技能敘述修�
 INSERT INTO `gift_message` VALUES (/*id*/99557, /*discription*/"公主周年包獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/99558, /*discription*/"公主夢境資源包", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/99559, /*discription*/" 7日體力應援包的獎勵。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99560, /*discription*/"拉姆的碎片禮包", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99561, /*discription*/"伊緒(夏日)的碎片禮包", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99562, /*discription*/"Re：從零開始的異世界生活~合作紀念活動獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99563, /*discription*/"迎接冬天的禮物", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99564, /*discription*/"真步真步王國一周年紀念獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);

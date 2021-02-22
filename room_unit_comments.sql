@@ -2089,7 +2089,7 @@ INSERT INTO `room_unit_comments` VALUES (/*id*/2203, /*unit_id*/102601, /*trigge
 INSERT INTO `room_unit_comments` VALUES (/*id*/2205, /*unit_id*/102601, /*trigger*/3, /*voice_id*/7, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"吃飽立刻睡覺的話\n會變成牛。\n這是真的嗎？", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/2206, /*unit_id*/102601, /*trigger*/3, /*voice_id*/8, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"喔！　這本書\n感覺連我看了\n都不會想睡呢。", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/2208, /*unit_id*/106301, /*trigger*/1, /*voice_id*/1, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"蘭德索爾…\n好大的城市啊…", /*insert_word_type*/0);
-INSERT INTO `room_unit_comments` VALUES (/*id*/2209, /*unit_id*/106301, /*trigger*/1, /*voice_id*/2, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"羅賽莉亞……\n一定就在這裡吧？", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/2209, /*unit_id*/106301, /*trigger*/1, /*voice_id*/2, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"蘿莎麗亞……\n一定就在這裡吧？", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/2210, /*unit_id*/106301, /*trigger*/1, /*voice_id*/3, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"最近弓箭的練習\n常常偷懶呢……", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/2211, /*unit_id*/106301, /*trigger*/1, /*voice_id*/4, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"我今天\n不是森林守護人\n是家庭主婦哦！", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/2212, /*unit_id*/106301, /*trigger*/1, /*voice_id*/5, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"好像有點\n習慣了？", /*insert_word_type*/0);
