@@ -104,3 +104,5 @@ INSERT INTO `odds_name_data` VALUES (/*id*/102, /*odds_file*/"box_rank_9-13", /*
 INSERT INTO `odds_name_data` VALUES (/*id*/103, /*odds_file*/"box_rank_11-14", /*name*/"隨機裝備箱", /*icon_type*/99002, /*description*/"能夠獲得隨機的裝備。");
 INSERT INTO `odds_name_data` VALUES (/*id*/108, /*odds_file*/1004520103, /*name*/"香織（夏日）的記憶碎片", /*icon_type*/99002, /*description*/"");
 INSERT INTO `odds_name_data` VALUES (/*id*/109, /*odds_file*/1004520104, /*name*/"霞的記憶碎片", /*icon_type*/99002, /*description*/"");
+INSERT INTO `odds_name_data` VALUES (/*id*/110, /*odds_file*/1004620101, /*name*/"美里（夏日）的記憶碎片", /*icon_type*/99002, /*description*/"");
+INSERT INTO `odds_name_data` VALUES (/*id*/111, /*odds_file*/1004620102, /*name*/"綾音的記憶碎片", /*icon_type*/99002, /*description*/"");
