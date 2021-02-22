@@ -9,7 +9,7 @@ a/all_atlasalbumglossary.unity3d,bca30244f8315c6de514cb1482d68b7f,tutorial1,5727
 a/all_atlasalbummemory.unity3d,4f75970f7dcd8d90e1ed980844864f3d,tutorial1,15088,
 a/all_atlasalbumtop.unity3d,89bde8929af8b474646e001c10442679,tutorial1,14905,
 a/all_atlasarena.unity3d,e1eae6c6e1640f585b1cf4e8de883e7a,tutorial1,208799,
-a/all_atlasbattle.unity3d,a1846001bdc12be902f34ec3294d1fcf,tutorial0,198633,
+a/all_atlasbattle.unity3d,d91d445482a99cbfd35486d08f551979,tutorial0,200936,
 a/all_atlasbossbattle.unity3d,50dbe11e4bf90c43f5557dc5f1733825,tutorial0,198194,
 a/all_atlasbossbattle10009.unity3d,96edc46172f7d5292151018540b94f9a,tutorial1,117588,
 a/all_atlasbossbattle10010.unity3d,3d1ca7ec55e5df504fac001101a57cc1,tutorial1,129010,
