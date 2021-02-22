@@ -135,3 +135,4 @@ INSERT INTO `campaign_schedule` VALUES (/*id*/133, /*campaign_category*/31, /*va
 INSERT INTO `campaign_schedule` VALUES (/*id*/134, /*campaign_category*/41, /*value*/2000.0, /*system_id*/101, /*icon_image*/40, /*start_time*/"2019/11/13 05:00:00", /*end_time*/"2019/11/26 04:59:59");
 INSERT INTO `campaign_schedule` VALUES (/*id*/135, /*campaign_category*/251, /*value*/1500.0, /*system_id*/7004, /*icon_image*/80, /*start_time*/"2019/11/17 16:00:00", /*end_time*/"2019/11/24 15:59:59");
 INSERT INTO `campaign_schedule` VALUES (/*id*/136, /*campaign_category*/252, /*value*/1500.0, /*system_id*/7005, /*icon_image*/80, /*start_time*/"2019/11/17 16:00:00", /*end_time*/"2019/11/24 15:59:59");
+INSERT INTO `campaign_schedule` VALUES (/*id*/137, /*campaign_category*/37, /*value*/2000.0, /*system_id*/109, /*icon_image*/30, /*start_time*/"2019/11/20 05:00:00", /*end_time*/"2019/11/26 04:59:59");
