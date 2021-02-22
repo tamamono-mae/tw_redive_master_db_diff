@@ -33,6 +33,7 @@ INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10032, /*event_id*/10032, /*g
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10033, /*event_id*/10033, /*gacha_name*/"魔法少女　兩人是Misty&Purely", /*item_type*/2, /*item_id*/60322, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10034, /*event_id*/10034, /*gacha_name*/"情人節之戰！正中紅心的甜蜜戰鬥", /*item_type*/2, /*item_id*/60332, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10035, /*event_id*/10035, /*gacha_name*/"星光公主　Re:M@STER！", /*item_type*/2, /*item_id*/60342, /*cost*/1, /*repeat_step*/5);
+INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10036, /*event_id*/10036, /*gacha_name*/"星光公主　Re:M@STER！", /*item_type*/2, /*item_id*/60342, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10037, /*event_id*/10037, /*gacha_name*/"王都的名偵探　嘆息的追緝者", /*item_type*/2, /*item_id*/60362, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10038, /*event_id*/10038, /*gacha_name*/"恩賜的財團與神聖學院的問題兒童", /*item_type*/2, /*item_id*/60372, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10039, /*event_id*/10039, /*gacha_name*/"在阿斯特朗盛開的雙輪之花", /*item_type*/2, /*item_id*/60382, /*cost*/1, /*repeat_step*/5);
