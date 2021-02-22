@@ -104,3 +104,5 @@ INSERT INTO `unit_background` VALUES (/*unit_id*/111401, /*unit_name*/"露娜", 
 INSERT INTO `unit_background` VALUES (/*unit_id*/111501, /*unit_name*/"克莉絲提娜（聖誕節）", /*bg_id*/500038, /*bg_name*/"蘭德索爾_鬧區_聖誕節", /*position*/0.0, /*face_type*/4);
 INSERT INTO `unit_background` VALUES (/*unit_id*/111601, /*unit_name*/"望（聖誕節）", /*bg_id*/500038, /*bg_name*/"蘭德索爾_鬧區_聖誕節", /*position*/0.0, /*face_type*/4);
 INSERT INTO `unit_background` VALUES (/*unit_id*/111701, /*unit_name*/"伊莉亞（聖誕節）", /*bg_id*/500038, /*bg_name*/"蘭德索爾_鬧區_聖誕節", /*position*/0.0, /*face_type*/4);
+INSERT INTO `unit_background` VALUES (/*unit_id*/112001, /*unit_name*/"凱留（新年）", /*bg_id*/500910, /*bg_name*/"蘭德索爾_鬧區_接力賽", /*position*/0.0, /*face_type*/6);
+INSERT INTO `unit_background` VALUES (/*unit_id*/112101, /*unit_name*/"鈴莓（新年）", /*bg_id*/500910, /*bg_name*/"蘭德索爾_鬧區_接力賽", /*position*/0.0, /*face_type*/2);
