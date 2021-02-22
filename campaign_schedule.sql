@@ -170,3 +170,7 @@ INSERT INTO `campaign_schedule` VALUES (/*id*/168, /*campaign_category*/34, /*va
 INSERT INTO `campaign_schedule` VALUES (/*id*/169, /*campaign_category*/44, /*value*/2000.0, /*system_id*/103, /*icon_image*/40, /*start_time*/"2020/02/01 05:00:00", /*end_time*/"2020/02/14 04:59:59");
 INSERT INTO `campaign_schedule` VALUES (/*id*/170, /*campaign_category*/151, /*value*/1500.0, /*system_id*/6004, /*icon_image*/80, /*start_time*/"2020/02/04 16:00:00", /*end_time*/"2020/02/18 15:59:59");
 INSERT INTO `campaign_schedule` VALUES (/*id*/171, /*campaign_category*/152, /*value*/1500.0, /*system_id*/6005, /*icon_image*/80, /*start_time*/"2020/02/04 16:00:00", /*end_time*/"2020/02/18 15:59:59");
+INSERT INTO `campaign_schedule` VALUES (/*id*/172, /*campaign_category*/37, /*value*/2000.0, /*system_id*/109, /*icon_image*/30, /*start_time*/"2020/02/14 05:00:00", /*end_time*/"2020/02/24 04:59:59");
+INSERT INTO `campaign_schedule` VALUES (/*id*/173, /*campaign_category*/38, /*value*/2000.0, /*system_id*/112, /*icon_image*/30, /*start_time*/"2020/02/14 05:00:00", /*end_time*/"2020/02/24 04:59:59");
+INSERT INTO `campaign_schedule` VALUES (/*id*/174, /*campaign_category*/31, /*value*/3000.0, /*system_id*/101, /*icon_image*/30, /*start_time*/"2020/02/14 05:00:00", /*end_time*/"2020/02/24 04:59:59");
+INSERT INTO `campaign_schedule` VALUES (/*id*/175, /*campaign_category*/41, /*value*/3000.0, /*system_id*/101, /*icon_image*/40, /*start_time*/"2020/02/14 05:00:00", /*end_time*/"2020/02/24 04:59:59");
