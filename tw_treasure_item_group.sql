@@ -78,3 +78,13 @@ INSERT INTO `tw_treasure_item_group` VALUES (/*id*/97502069, /*item_id*/97502, /
 INSERT INTO `tw_treasure_item_group` VALUES (/*id*/97502070, /*item_id*/97502, /*reward_type*/4, /*reward_id*/105344, /*reward_count*/1);
 INSERT INTO `tw_treasure_item_group` VALUES (/*id*/97502071, /*item_id*/97502, /*reward_type*/4, /*reward_id*/105432, /*reward_count*/1);
 INSERT INTO `tw_treasure_item_group` VALUES (/*id*/97502072, /*item_id*/97502, /*reward_type*/4, /*reward_id*/105284, /*reward_count*/1);
+INSERT INTO `tw_treasure_item_group` VALUES (/*id*/97503001, /*item_id*/97503, /*reward_type*/2, /*reward_id*/90005, /*reward_count*/20);
+INSERT INTO `tw_treasure_item_group` VALUES (/*id*/97503002, /*item_id*/97503, /*reward_type*/4, /*reward_id*/140001, /*reward_count*/10);
+INSERT INTO `tw_treasure_item_group` VALUES (/*id*/97503003, /*item_id*/97503, /*reward_type*/6, /*reward_id*/93001, /*reward_count*/250);
+INSERT INTO `tw_treasure_item_group` VALUES (/*id*/97503004, /*item_id*/97503, /*reward_type*/8, /*reward_id*/91002, /*reward_count*/500);
+INSERT INTO `tw_treasure_item_group` VALUES (/*id*/97503005, /*item_id*/97503, /*reward_type*/12, /*reward_id*/94002, /*reward_count*/500000);
+INSERT INTO `tw_treasure_item_group` VALUES (/*id*/97503006, /*item_id*/97503, /*reward_type*/2, /*reward_id*/25001, /*reward_count*/5);
+INSERT INTO `tw_treasure_item_group` VALUES (/*id*/97504001, /*item_id*/97504, /*reward_type*/2, /*reward_id*/97102, /*reward_count*/1);
+INSERT INTO `tw_treasure_item_group` VALUES (/*id*/97504002, /*item_id*/97504, /*reward_type*/2, /*reward_id*/97103, /*reward_count*/1);
+INSERT INTO `tw_treasure_item_group` VALUES (/*id*/97504003, /*item_id*/97504, /*reward_type*/2, /*reward_id*/97104, /*reward_count*/1);
+INSERT INTO `tw_treasure_item_group` VALUES (/*id*/97504004, /*item_id*/97504, /*reward_type*/2, /*reward_id*/97105, /*reward_count*/1);
