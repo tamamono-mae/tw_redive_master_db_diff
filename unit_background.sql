@@ -94,3 +94,5 @@ INSERT INTO `unit_background` VALUES (/*unit_id*/110701, /*unit_name*/"碧（插
 INSERT INTO `unit_background` VALUES (/*unit_id*/110801, /*unit_name*/"克蘿依", /*bg_id*/500730, /*bg_name*/"聖德蕾莎女子學院 _正門", /*position*/0.0, /*face_type*/2);
 INSERT INTO `unit_background` VALUES (/*unit_id*/110901, /*unit_name*/"琪愛兒", /*bg_id*/500730, /*bg_name*/"聖德蕾莎女子學院 _正門", /*position*/0.0, /*face_type*/2);
 INSERT INTO `unit_background` VALUES (/*unit_id*/111001, /*unit_name*/"優妮", /*bg_id*/500730, /*bg_name*/"聖德蕾莎女子學院 _正門", /*position*/0.0, /*face_type*/4);
+INSERT INTO `unit_background` VALUES (/*unit_id*/111101, /*unit_name*/"鏡華（萬聖節）", /*bg_id*/500811, /*bg_name*/"宅邸_主樓", /*position*/0.0, /*face_type*/2);
+INSERT INTO `unit_background` VALUES (/*unit_id*/111201, /*unit_name*/"禊（萬聖節）", /*bg_id*/500811, /*bg_name*/"宅邸_主樓", /*position*/0.0, /*face_type*/4);

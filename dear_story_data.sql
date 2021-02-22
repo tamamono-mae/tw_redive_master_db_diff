@@ -2,4 +2,5 @@ CREATE TABLE 'dear_story_data' ('story_group_id' INTEGER NOT NULL, 'story_type' 
 INSERT INTO `dear_story_data` VALUES (/*story_group_id*/6017, /*story_type*/6, /*value*/10017, /*title*/"Re:從零開始聚集的異世界餐桌", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2019/09/27 16:00:00", /*end_time*/"2030/04/24 14:59:59");
 INSERT INTO `dear_story_data` VALUES (/*story_group_id*/6019, /*story_type*/6, /*value*/10019, /*title*/"鈴奈的彩虹舞臺！", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2019/10/30 16:00:00", /*end_time*/"2030/04/24 14:59:59");
 INSERT INTO `dear_story_data` VALUES (/*story_group_id*/6023, /*story_type*/6, /*value*/10023, /*title*/"森林的膽小鬼與神聖學院的問題兒童", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2019/12/31 16:00:00", /*end_time*/"2030/04/24 14:59:59");
+INSERT INTO `dear_story_data` VALUES (/*story_group_id*/6025, /*story_type*/6, /*value*/10025, /*title*/"小小勇敢的萬聖節之夜", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2020/01/31 16:00:00", /*end_time*/"2030/04/24 14:59:59");
 CREATE INDEX 'dear_story_data_0_value' on 'dear_story_data'('value');
