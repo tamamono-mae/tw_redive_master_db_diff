@@ -3068,7 +3068,7 @@ INSERT INTO `room_unit_comments` VALUES (/*id*/3316, /*unit_id*/110501, /*trigge
 INSERT INTO `room_unit_comments` VALUES (/*id*/3317, /*unit_id*/110501, /*trigger*/1, /*voice_id*/102, /*beloved_step*/8, /*time*/0, /*face_id*/1, /*description*/"住在離海很近的地方，\n和你一起唱歌跳舞，\n就是我的理想～！", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/3318, /*unit_id*/110501, /*trigger*/2, /*voice_id*/1, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"我們來比\n我們之中\n誰比較能游～！", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/3319, /*unit_id*/110501, /*trigger*/2, /*voice_id*/2, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"你也對三線琴\n有興趣嗎～？\n我可以教你喔～！", /*insert_word_type*/0);
-INSERT INTO `room_unit_comments` VALUES (/*id*/3320, /*unit_id*/110501, /*trigger*/2, /*voice_id*/3, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"即使有不開心的事，\n只要和我一起唱歌跳舞\n就一切都沒什麼！", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/3320, /*unit_id*/110501, /*trigger*/2, /*voice_id*/3, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"即使有不開心的事，\n只要和我一起唱歌跳舞\n就船到橋頭自然直～！", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/3321, /*unit_id*/110501, /*trigger*/2, /*voice_id*/4, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"偶爾忘卻時間，\n和我一起\n悠閒看海嘛～", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/3322, /*unit_id*/110501, /*trigger*/2, /*voice_id*/101, /*beloved_step*/4, /*time*/0, /*face_id*/1, /*description*/"咕嚕咕嚕咕嚕！\n毛髮弄濕了\n也沒關係啦～！", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/3323, /*unit_id*/110501, /*trigger*/2, /*voice_id*/102, /*beloved_step*/8, /*time*/0, /*face_id*/1, /*description*/"游泳前得做熱身操～！\n我會幫你的，\n所以要好好做喔～！", /*insert_word_type*/0);
@@ -3973,4 +3973,8 @@ INSERT INTO `room_unit_comments` VALUES (/*id*/4365, /*unit_id*/113701, /*trigge
 INSERT INTO `room_unit_comments` VALUES (/*id*/4366, /*unit_id*/113701, /*trigger*/3, /*voice_id*/5, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"身體感覺好熱\n茜里覺得……\n有點暈……", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/4368, /*unit_id*/113701, /*trigger*/3, /*voice_id*/7, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"啊呣、嗯……啊\n沾到臉上了，\n黏呼呼的～", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/4369, /*unit_id*/113701, /*trigger*/3, /*voice_id*/8, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"天使出現在\n很多故事當中呢，\n得更認真調查才行！", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/4371, /*unit_id*/103201, /*trigger*/1, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"在那位大人面前，\n總希望能\n保持高雅呢。", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/4372, /*unit_id*/103201, /*trigger*/2, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"我有絕對的自信，\n就算迷失了方向\n也絕對能夠\n回到您身邊。", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/4373, /*unit_id*/102801, /*trigger*/1, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"和你在一起的時候\n說不定是我\n最快樂的時光呢。", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/4374, /*unit_id*/102801, /*trigger*/2, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"希望有一天能和你一起\n打理咲戀育幼院\n……開玩笑的♪", /*insert_word_type*/0);
 CREATE INDEX 'room_unit_comments_0_unit_id' on 'room_unit_comments'('unit_id');
