@@ -64,7 +64,7 @@ INSERT INTO `tips` VALUES (/*id*/4109201, /*value*/109201, /*tips_index*/1, /*ti
 INSERT INTO `tips` VALUES (/*id*/4109301, /*value*/109301, /*tips_index*/1, /*title*/"臨陣脫逃");
 INSERT INTO `tips` VALUES (/*id*/4109401, /*value*/109401, /*tips_index*/1, /*title*/"不行哦？");
 INSERT INTO `tips` VALUES (/*id*/4109501, /*value*/109501, /*tips_index*/1, /*title*/"會上癮的");
-INSERT INTO `tips` VALUES (/*id*/4109601, /*value*/109601, /*tips_index*/1, /*title*/"新忍術");
+INSERT INTO `tips` VALUES (/*id*/4109601, /*value*/109601, /*tips_index*/1, /*title*/"新忍法");
 INSERT INTO `tips` VALUES (/*id*/4110701, /*value*/110701, /*tips_index*/1, /*title*/"邊緣人專用");
 INSERT INTO `tips` VALUES (/*id*/4110801, /*value*/110801, /*tips_index*/1, /*title*/"容易被誤會");
 INSERT INTO `tips` VALUES (/*id*/4110901, /*value*/110901, /*tips_index*/1, /*title*/"切嚕～☆");
