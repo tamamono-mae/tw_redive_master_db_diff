@@ -5,4 +5,5 @@ INSERT INTO `shiori_description` VALUES (/*id*/301, /*type*/3, /*description*/"�
 INSERT INTO `shiori_description` VALUES (/*id*/20005, /*type*/4, /*description*/"完成任務後可解放的角色將會登場。\n以完成任務為目標吧。");
 INSERT INTO `shiori_description` VALUES (/*id*/20007, /*type*/5, /*description*/"完成任務後可解放的角色將會登場。\n以完成任務為目標吧。");
 INSERT INTO `shiori_description` VALUES (/*id*/20009, /*type*/6, /*description*/"完成任務後可解放的角色將會登場。\n以完成任務為目標吧。");
+INSERT INTO `shiori_description` VALUES (/*id*/20010, /*type*/7, /*description*/"完成任務後可解放的角色將會登場。\n以完成任務為目標吧。");
 CREATE INDEX 'shiori_description_0_type' on 'shiori_description'('type');
