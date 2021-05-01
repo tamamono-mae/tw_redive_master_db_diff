@@ -79,6 +79,7 @@ INSERT INTO `bg_data` VALUES (/*view_name*/"HATSUNE_DIARY_LETTER", /*bg_id*/5302
 INSERT INTO `bg_data` VALUES (/*view_name*/"HATSUNE_NYX_TOP", /*bg_id*/0, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"HATSUNE_NYX_RECORD", /*bg_id*/0, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"HATSUNE_LTO", /*bg_id*/0, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"HATSUNE_SKE", /*bg_id*/0, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"OMP_TOP", /*bg_id*/0, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"OMP_PHOTO_MEMORY", /*bg_id*/0, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"SELECT_SKIN", /*bg_id*/530010, /*event_id*/0);
@@ -140,3 +141,6 @@ INSERT INTO `bg_data` VALUES (/*view_name*/"MINI_GAME_PKB_PLAYER_DIRECTORY", /*b
 INSERT INTO `bg_data` VALUES (/*view_name*/"MINI_GAME_PKB_TUTORIAL", /*bg_id*/0, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"SPECIAL_STILL_YBM", /*bg_id*/0, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"STORY_EVENT_YBM_DETAIL", /*bg_id*/530030, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"NORMAL_ARENA_RESULT", /*bg_id*/0, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"GRAND_ARENA_RESULT", /*bg_id*/0, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"THIRD_LOGIN_BONUS", /*bg_id*/0, /*event_id*/0);
