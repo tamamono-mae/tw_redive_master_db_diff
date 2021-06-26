@@ -4326,4 +4326,6 @@ INSERT INTO `room_unit_comments` VALUES (/*id*/4785, /*unit_id*/115601, /*trigge
 INSERT INTO `room_unit_comments` VALUES (/*id*/4786, /*unit_id*/115601, /*trigger*/3, /*voice_id*/5, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"好溫暖……\n就像是被人\n抱在懷裡\n一樣……", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/4788, /*unit_id*/115601, /*trigger*/3, /*voice_id*/7, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"感謝\n大自然的恩惠……\n我開動了♪", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/4789, /*unit_id*/115601, /*trigger*/3, /*voice_id*/8, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"我想更加了解\n和精靈有關的知識，\n保護好大家……", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/4791, /*unit_id*/102201, /*trigger*/1, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"只要和他待在一起\n就會心跳加速……\n這該不會是……", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/4792, /*unit_id*/102201, /*trigger*/2, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"只要是和你一起，\n無論玩什麼遊戲……\n那、那個，一一、\n一定都很開心！", /*insert_word_type*/0);
 CREATE INDEX 'room_unit_comments_0_unit_id' on 'room_unit_comments'('unit_id');
