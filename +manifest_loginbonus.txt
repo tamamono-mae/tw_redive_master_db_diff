@@ -48,7 +48,7 @@ a/loginbonus_logoeffect_80001.unity3d,52437cdd392ace028dfbd3415b0b53a0,common,13
 a/loginbonus_logoeffect_80002.unity3d,8913673b8a18191bf6b06ab60c77e004,common,1115456,
 a/loginbonus_logoeffect_80003.unity3d,46b19531f434d205ade619149df494eb,common,1307645,
 a/loginbonus_logoeffect_common.unity3d,74b9fcbc01e77f584645c8c828f8ef6d,common,7021,
-a/loginbonus_photobook.unity3d,df01ece0f9130b100d024c47fe416996,common,11617656,
+a/loginbonus_photobook.unity3d,897707fa741650879dcbeb15803d976e,common,11618188,
 a/loginbonus_race.unity3d,1d92c633c46430caaceeabfdca5da0a7,common,200381,
 a/loginbonus_race_bg.unity3d,81ecc6cd6115a73ea86c71a63a9250ff,common,418322,
 a/loginbonus_race_login_logo.unity3d,f94bfce16c088181fd795997a0752c11,common,57161,
