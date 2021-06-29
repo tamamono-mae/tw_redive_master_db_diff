@@ -77,7 +77,7 @@ a/event_btn_circle_event_tex_10057.unity3d,bafdffa6aa3b54b9957739c510298a2a,comm
 a/event_btn_circle_event_tex_10058.unity3d,b67d87e265d78496955783f6d9f992c3,common,3151,
 a/event_btn_circle_event_tex_10059.unity3d,4fd824e44bd2b1ebf895cfc9330315e0,common,3151,
 a/event_btn_circle_event_tex_10060.unity3d,87f1f40492fb57f35aee80ae9df0e65a,common,3020,
-a/event_btn_circle_event_tex_10061.unity3d,17981a54d267762ef60397196dabf311,common,3259,
+a/event_btn_circle_event_tex_10061.unity3d,16ce96d1a7a4f9833716f365449d1a45,common,3155,
 a/event_btn_circle_event_tex_10064.unity3d,8d4bb40fc40864b7e76d1565742913cb,common,3256,
 a/event_completeeffect_001.unity3d,b0a566d6c6dbcfd01858086fabc72813,common,245095,
 a/event_ekiden.unity3d,79e32ad7dcfe303aa85807b88c363e85,common,3122526,
