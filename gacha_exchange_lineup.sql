@@ -204,4 +204,13 @@ INSERT INTO `gacha_exchange_lineup` VALUES (/*id*/208, /*exchange_id*/114, /*uni
 INSERT INTO `gacha_exchange_lineup` VALUES (/*id*/209, /*exchange_id*/115, /*unit_id*/106401, /*rarity*/3, /*gacha_bonus_id*/1038, /*start_time*/"2021/06/19 16:00:00", /*end_time*/"2021/06/27 15:59:59");
 INSERT INTO `gacha_exchange_lineup` VALUES (/*id*/210, /*exchange_id*/117, /*unit_id*/113101, /*rarity*/3, /*gacha_bonus_id*/0, /*start_time*/"2021/06/27 16:00:00", /*end_time*/"2021/07/02 15:59:59");
 INSERT INTO `gacha_exchange_lineup` VALUES (/*id*/211, /*exchange_id*/118, /*unit_id*/115701, /*rarity*/3, /*gacha_bonus_id*/1039, /*start_time*/"2021/06/27 16:00:00", /*end_time*/"2021/07/02 15:59:59");
+INSERT INTO `gacha_exchange_lineup` VALUES (/*id*/212, /*exchange_id*/119, /*unit_id*/180601, /*rarity*/3, /*gacha_bonus_id*/1040, /*start_time*/"2021/07/02 16:00:00", /*end_time*/"2021/07/05 15:59:59");
+INSERT INTO `gacha_exchange_lineup` VALUES (/*id*/213, /*exchange_id*/119, /*unit_id*/106801, /*rarity*/3, /*gacha_bonus_id*/0, /*start_time*/"2021/07/02 16:00:00", /*end_time*/"2021/07/05 15:59:59");
+INSERT INTO `gacha_exchange_lineup` VALUES (/*id*/214, /*exchange_id*/119, /*unit_id*/180101, /*rarity*/3, /*gacha_bonus_id*/0, /*start_time*/"2021/07/02 16:00:00", /*end_time*/"2021/07/05 15:59:59");
+INSERT INTO `gacha_exchange_lineup` VALUES (/*id*/215, /*exchange_id*/119, /*unit_id*/180201, /*rarity*/3, /*gacha_bonus_id*/0, /*start_time*/"2021/07/02 16:00:00", /*end_time*/"2021/07/05 15:59:59");
+INSERT INTO `gacha_exchange_lineup` VALUES (/*id*/216, /*exchange_id*/119, /*unit_id*/180501, /*rarity*/3, /*gacha_bonus_id*/0, /*start_time*/"2021/07/02 16:00:00", /*end_time*/"2021/07/05 15:59:59");
+INSERT INTO `gacha_exchange_lineup` VALUES (/*id*/217, /*exchange_id*/119, /*unit_id*/180401, /*rarity*/3, /*gacha_bonus_id*/0, /*start_time*/"2021/07/02 16:00:00", /*end_time*/"2021/07/05 15:59:59");
+INSERT INTO `gacha_exchange_lineup` VALUES (/*id*/218, /*exchange_id*/119, /*unit_id*/107001, /*rarity*/3, /*gacha_bonus_id*/0, /*start_time*/"2021/07/02 16:00:00", /*end_time*/"2021/07/05 15:59:59");
+INSERT INTO `gacha_exchange_lineup` VALUES (/*id*/219, /*exchange_id*/119, /*unit_id*/106101, /*rarity*/3, /*gacha_bonus_id*/0, /*start_time*/"2021/07/02 16:00:00", /*end_time*/"2021/07/05 15:59:59");
+INSERT INTO `gacha_exchange_lineup` VALUES (/*id*/220, /*exchange_id*/119, /*unit_id*/107101, /*rarity*/3, /*gacha_bonus_id*/0, /*start_time*/"2021/07/02 16:00:00", /*end_time*/"2021/07/05 15:59:59");
 CREATE INDEX 'gacha_exchange_lineup_0_exchange_id' on 'gacha_exchange_lineup'('exchange_id');
