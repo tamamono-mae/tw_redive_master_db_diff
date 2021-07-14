@@ -480,7 +480,7 @@ a/event_space_battle_ribbon.unity3d,faba345f42df7a078c7cc8aef7425a82,common,7027
 a/event_spbattleshieldeffect_307801.unity3d,260c20e76eae5e0a0f704ed08d3e5da3,common,136067,
 a/event_spbattleshieldeffect_311101.unity3d,bbd66c7ddb1259b97752e9ae55cf04fa,common,213707,
 a/event_spbattleshieldeffect_313104.unity3d,b566061560d21ade47cdb8e83d101508,common,276539,
-a/event_ssp.unity3d,2ad125931c886abc86301044e7fb19a4,common,2625133,
+a/event_ssp.unity3d,d6c3817f42c9664859511fa9dd624569,common,2627463,
 a/event_story_thumb_mask.unity3d,2542c1a26a5e2e87933efe749a76defa,common,2526,
 a/event_story_thumb_material.unity3d,51e9e4e8cd73c8f5b1d3fab6a27045da,common,2116,
 a/event_teaser_50047_p.unity3d,0b77fea584d0779edeb2e222361e1830,common,411329,
