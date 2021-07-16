@@ -7033,6 +7033,7 @@ a/icon_thumb_story_9002013.unity3d,1c33f8c9daf3e101cb744d28840bdf2e,tutorial1,16
 a/icon_thumb_story_9002014.unity3d,8ae15908c23766ae79519600dcdc90ee,tutorial1,16931,
 a/icon_thumb_story_9002015.unity3d,d29ba6cde1da3b4d60ba156638b0ab67,tutorial1,16968,
 a/icon_thumb_story_9002016.unity3d,28750d40448d8ba78c7a0d9058a7752e,tutorial1,16928,
+a/icon_thumb_story_9002017.unity3d,e2fcf02ae2050237cbccadd178a6cfc7,tutorial1,16937,
 a/icon_thumb_story_unknown.unity3d,caa24ebecee1611f25c4b8c91c8464e1,tutorial1,3362,
 a/icon_thumb_tme_top.unity3d,ee18819013ad747e4a94f56f082f680f,tutorial1,16929,
 a/icon_thumb_tower_story_top_7001.unity3d,8deb8086096bc5831cb79e93a641d9c4,tutorial1,16939,
