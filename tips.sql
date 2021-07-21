@@ -84,6 +84,7 @@ INSERT INTO `tips` VALUES (/*id*/4114201, /*value*/114201, /*tips_index*/1, /*ti
 INSERT INTO `tips` VALUES (/*id*/4114301, /*value*/114301, /*tips_index*/1, /*title*/"一起！");
 INSERT INTO `tips` VALUES (/*id*/4115801, /*value*/115801, /*tips_index*/1, /*title*/"生產者的臉");
 INSERT INTO `tips` VALUES (/*id*/4115901, /*value*/115901, /*tips_index*/1, /*title*/"輕飄飄");
+INSERT INTO `tips` VALUES (/*id*/4116001, /*value*/116001, /*tips_index*/1, /*title*/"優雅點優雅點");
 INSERT INTO `tips` VALUES (/*id*/4180101, /*value*/180101, /*tips_index*/1, /*title*/"猜拳時間！");
 INSERT INTO `tips` VALUES (/*id*/4180201, /*value*/180201, /*tips_index*/1, /*title*/"肚子咕咕叫");
 INSERT INTO `tips` VALUES (/*id*/4180401, /*value*/180401, /*tips_index*/1, /*title*/"POWER UP☆");
