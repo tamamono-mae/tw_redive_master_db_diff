@@ -148,6 +148,7 @@ INSERT INTO `chara_identity` VALUES (/*unit_id*/116501, /*chara_type*/66, /*char
 INSERT INTO `chara_identity` VALUES (/*unit_id*/116601, /*chara_type*/65, /*chara_type_2*/0, /*chara_type_3*/0);
 INSERT INTO `chara_identity` VALUES (/*unit_id*/116701, /*chara_type*/40, /*chara_type_2*/0, /*chara_type_3*/0);
 INSERT INTO `chara_identity` VALUES (/*unit_id*/116801, /*chara_type*/46, /*chara_type_2*/0, /*chara_type_3*/0);
+INSERT INTO `chara_identity` VALUES (/*unit_id*/116901, /*chara_type*/48, /*chara_type_2*/0, /*chara_type_3*/0);
 INSERT INTO `chara_identity` VALUES (/*unit_id*/180101, /*chara_type*/1, /*chara_type_2*/0, /*chara_type_3*/0);
 INSERT INTO `chara_identity` VALUES (/*unit_id*/180201, /*chara_type*/2, /*chara_type_2*/0, /*chara_type_3*/0);
 INSERT INTO `chara_identity` VALUES (/*unit_id*/180401, /*chara_type*/58, /*chara_type_2*/0, /*chara_type_3*/0);
