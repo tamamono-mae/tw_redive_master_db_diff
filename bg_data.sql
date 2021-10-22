@@ -146,3 +146,6 @@ INSERT INTO `bg_data` VALUES (/*view_name*/"NORMAL_ARENA_RESULT", /*bg_id*/0, /*
 INSERT INTO `bg_data` VALUES (/*view_name*/"GRAND_ARENA_RESULT", /*bg_id*/0, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"THIRD_LOGIN_BONUS", /*bg_id*/0, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"DMF_TOP", /*bg_id*/0, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"HATSUNE_SVD", /*bg_id*/0, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"CGG_GACHA_TOP", /*bg_id*/0, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"CGG_GOODS_LIST", /*bg_id*/0, /*event_id*/0);
