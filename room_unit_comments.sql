@@ -4604,4 +4604,6 @@ INSERT INTO `room_unit_comments` VALUES (/*id*/5099, /*unit_id*/116801, /*trigge
 INSERT INTO `room_unit_comments` VALUES (/*id*/5100, /*unit_id*/116801, /*trigger*/3, /*voice_id*/5, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"呼喵～\n真想就這樣縮成一團\n不去工作喵……", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/5102, /*unit_id*/116801, /*trigger*/3, /*voice_id*/7, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"做生意就是打仗喵。\n我要多吃點，\n然後努力工作喵！", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/5103, /*unit_id*/116801, /*trigger*/3, /*voice_id*/8, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"嗯嗯，鯛魚燒的\n創意食譜集……\n有參考價值喵……", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/5105, /*unit_id*/102101, /*trigger*/1, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"在演出前看到哥哥的臉\n就覺得非常安心……♪", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/5106, /*unit_id*/102101, /*trigger*/2, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"我想讓哥哥多看看我……\n所以……\n我想變得更強……！", /*insert_word_type*/0);
 CREATE INDEX 'room_unit_comments_0_unit_id' on 'room_unit_comments'('unit_id');
