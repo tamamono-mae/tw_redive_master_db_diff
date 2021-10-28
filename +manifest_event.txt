@@ -509,7 +509,7 @@ a/event_spbattleshieldeffect_313104.unity3d,b566061560d21ade47cdb8e83d101508,com
 a/event_ssp.unity3d,2e4d233d780549214790c34c7501a22b,common,2626543,
 a/event_story_thumb_mask.unity3d,2542c1a26a5e2e87933efe749a76defa,common,2526,
 a/event_story_thumb_material.unity3d,51e9e4e8cd73c8f5b1d3fab6a27045da,common,2116,
-a/event_svd.unity3d,0ef4d3979dd10f2439443babaa58bcf1,common,4452672,
+a/event_svd.unity3d,d2d4f296e1c1305cadc3ebe34905418a,common,4453692,
 a/event_teaser_50047_p.unity3d,0b77fea584d0779edeb2e222361e1830,common,411329,
 a/event_teaser_50047_s.unity3d,75a1d50a409e9c9047ac78b05db23037,common,421594,
 a/event_teaser_50051_p.unity3d,5520883c1c817321ac8b5079ac7d27bb,common,400689,

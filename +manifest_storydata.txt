@@ -4904,7 +4904,7 @@ a/storydata_movie_506600601.unity3d,8cfa4bce3d5b5d4ca6d462077cdcd2fa,tutorial2,3
 a/storydata_movie_506800101.unity3d,f7184ca49fbd18c7c1b1f360e86243c5,tutorial2,2749,
 a/storydata_movie_506800601.unity3d,cd3055587dc337653a79b543d5abc10c,tutorial2,3059,
 a/storydata_movie_507000101.unity3d,3def45caa144058ca0538aff9bec1f52,tutorial2,2612,
-a/storydata_movie_507000501.unity3d,16e5812fef592456b414aed4f9f8c864,tutorial2,3074,
+a/storydata_movie_507000501.unity3d,fe62346272a196498ad3eed3a9be380d,tutorial2,3069,
 a/storydata_movie_507200001.unity3d,2247c4016388a2eca30145402c9d8776,tutorial2,2586,
 a/storydata_movie_507200601.unity3d,c3a97661066c71e35fe28f7708301e85,tutorial2,2687,
 a/storydata_spine_full_000002.unity3d,c1e57ad0dd9dc3f40874c11bd645a5dd,tutorial2,105972,
