@@ -91,8 +91,10 @@ INSERT INTO `tips` VALUES (/*id*/4116501, /*value*/116501, /*tips_index*/1, /*ti
 INSERT INTO `tips` VALUES (/*id*/4116601, /*value*/116601, /*tips_index*/1, /*title*/"工作中");
 INSERT INTO `tips` VALUES (/*id*/4116701, /*value*/116701, /*tips_index*/1, /*title*/"（可能）擅長領域");
 INSERT INTO `tips` VALUES (/*id*/4116801, /*value*/116801, /*tips_index*/1, /*title*/"確定虧損");
+INSERT INTO `tips` VALUES (/*id*/4116901, /*value*/116901, /*tips_index*/1, /*title*/"擅長領域");
 INSERT INTO `tips` VALUES (/*id*/4180101, /*value*/180101, /*tips_index*/1, /*title*/"猜拳時間！");
 INSERT INTO `tips` VALUES (/*id*/4180201, /*value*/180201, /*tips_index*/1, /*title*/"肚子咕咕叫");
+INSERT INTO `tips` VALUES (/*id*/4180301, /*value*/180301, /*tips_index*/1, /*title*/"守護之力");
 INSERT INTO `tips` VALUES (/*id*/4180401, /*value*/180401, /*tips_index*/1, /*title*/"POWER UP☆");
 INSERT INTO `tips` VALUES (/*id*/4180501, /*value*/180501, /*tips_index*/1, /*title*/"軟綿綿");
 INSERT INTO `tips` VALUES (/*id*/4180601, /*value*/180601, /*tips_index*/1, /*title*/"吆喝聲");
