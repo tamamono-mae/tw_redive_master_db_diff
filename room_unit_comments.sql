@@ -4674,4 +4674,6 @@ INSERT INTO `room_unit_comments` VALUES (/*id*/5179, /*unit_id*/117001, /*trigge
 INSERT INTO `room_unit_comments` VALUES (/*id*/5180, /*unit_id*/117001, /*trigger*/3, /*voice_id*/8, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"這個藥物配方……\n下次嘗試看看吧。\n試驗對象當然是\n那位大人……", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/5182, /*unit_id*/117001, /*trigger*/3, /*voice_id*/10, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"要是能兩個人\n一起坐就好了……", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/5183, /*unit_id*/117001, /*trigger*/3, /*voice_id*/11, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"好柔軟……\n也想要那位大人那份了……", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/5184, /*unit_id*/101701, /*trigger*/1, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"今天想一直和你\n一起唱歌跳舞呢～♪", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/5185, /*unit_id*/101701, /*trigger*/2, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"啊哈～♪\n在你身邊好像比在故鄉\n更令人感到安心～♪", /*insert_word_type*/0);
 CREATE INDEX 'room_unit_comments_0_unit_id' on 'room_unit_comments'('unit_id');
