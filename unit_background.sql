@@ -150,6 +150,7 @@ INSERT INTO `unit_background` VALUES (/*unit_id*/116701, /*unit_name*/"碧（工
 INSERT INTO `unit_background` VALUES (/*unit_id*/116801, /*unit_name*/"珠希（工作服）", /*bg_id*/501340, /*bg_name*/"玩具工廠", /*position*/0.0, /*face_type*/4);
 INSERT INTO `unit_background` VALUES (/*unit_id*/116901, /*unit_name*/"美冬（工作服）", /*bg_id*/501340, /*bg_name*/"玩具工廠", /*position*/0.0, /*face_type*/2);
 INSERT INTO `unit_background` VALUES (/*unit_id*/117001, /*unit_name*/"惠理子（夏日）", /*bg_id*/500160, /*bg_name*/"瑪爾傑海岸", /*position*/0.0, /*face_type*/4);
+INSERT INTO `unit_background` VALUES (/*unit_id*/117101, /*unit_name*/"靜流（夏日）", /*bg_id*/500160, /*bg_name*/"瑪爾傑海岸", /*position*/0.0, /*face_type*/4);
 INSERT INTO `unit_background` VALUES (/*unit_id*/180101, /*unit_name*/"日和（公主）", /*bg_id*/500130, /*bg_name*/"埃斯特雷拉街道", /*position*/0.0, /*face_type*/2);
 INSERT INTO `unit_background` VALUES (/*unit_id*/180201, /*unit_name*/"優衣（公主）", /*bg_id*/500130, /*bg_name*/"埃斯特雷拉街道", /*position*/0.0, /*face_type*/4);
 INSERT INTO `unit_background` VALUES (/*unit_id*/180301, /*unit_name*/"怜（公主）", /*bg_id*/500130, /*bg_name*/"埃斯特雷拉街道", /*position*/0.0, /*face_type*/3);
