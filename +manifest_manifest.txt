@@ -13,7 +13,15 @@ manifest/icon2_assetmanifest,e6e2a3b6809f01be2791c6a955648f29,every,708250,
 manifest/jukebox2_assetmanifest,2583853c3ae8c6d3f8fcff1c5eabdb28,every,16024,
 manifest/lipsyncothers2_assetmanifest,ac45c1c99e171ce717ee199d8e799c92,every,99332,
 manifest/loginbonus2_assetmanifest,164955c227f3a65bbdb0b8aed9fe1855,every,5705,
+<<<<<<< HEAD
 manifest/masterdata2_assetmanifest,56ef37f04d9ab93c1837157ecf975dc6,every,79,
+=======
+<<<<<<< HEAD
+manifest/masterdata2_assetmanifest,0c01b69ffa83e058e8f66d4792e18419,every,79,
+=======
+manifest/masterdata2_assetmanifest,02d5cbcda01d6ebe46b3ccceec80ce7a,every,79,
+>>>>>>> 3d26339... 00040012
+>>>>>>> 9784e64... 00040012
 manifest/minigame2_assetmanifest,123e787a9df42a19f8c2d8dc62087c35,every,17228,
 manifest/resourcedefine2_assetmanifest,fee2bcfe6e0f4c4032d0dd744d817367,every,271,
 manifest/room2_assetmanifest,1ee499b934f69ddf2eeb5ac475a7a30d,every,151530,
