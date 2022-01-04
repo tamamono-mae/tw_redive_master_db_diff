@@ -1,18 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-a/masterdata_master.unity3d,2b5078b01f026e8bc9f694235fba46d5,tutorial0,3932632,
-=======
-=======
->>>>>>> 3ac96d5... 00040013
-<<<<<<< HEAD
-a/masterdata_master.unity3d,1f5f619589fa56a45f99864b51a0921d,tutorial0,3899028,
-=======
-a/masterdata_master.unity3d,b4e84b2f1a875417f1d67bcc1d00190f,tutorial0,3938097,
->>>>>>> 3d26339... 00040012
-<<<<<<< HEAD
->>>>>>> 9784e64... 00040012
-=======
-=======
-a/masterdata_master.unity3d,95515ab31fd004f5d57a0717d8b998e3,tutorial0,4023936,
->>>>>>> 09f2752... 00040013
->>>>>>> 3ac96d5... 00040013
+a/masterdata_master.unity3d,bc56935f8f0b6183b979732d95961735,tutorial0,4026461,

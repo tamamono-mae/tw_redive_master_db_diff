@@ -13,28 +13,11 @@ manifest/icon2_assetmanifest,e6e2a3b6809f01be2791c6a955648f29,every,708250,
 manifest/jukebox2_assetmanifest,2583853c3ae8c6d3f8fcff1c5eabdb28,every,16024,
 manifest/lipsyncothers2_assetmanifest,ac45c1c99e171ce717ee199d8e799c92,every,99332,
 manifest/loginbonus2_assetmanifest,164955c227f3a65bbdb0b8aed9fe1855,every,5705,
-<<<<<<< HEAD
-<<<<<<< HEAD
-manifest/masterdata2_assetmanifest,56ef37f04d9ab93c1837157ecf975dc6,every,79,
-=======
-=======
->>>>>>> 3ac96d5... 00040013
-<<<<<<< HEAD
-manifest/masterdata2_assetmanifest,0c01b69ffa83e058e8f66d4792e18419,every,79,
-=======
-manifest/masterdata2_assetmanifest,02d5cbcda01d6ebe46b3ccceec80ce7a,every,79,
->>>>>>> 3d26339... 00040012
-<<<<<<< HEAD
->>>>>>> 9784e64... 00040012
-=======
-=======
-manifest/masterdata2_assetmanifest,325b6afbd154060b7734f815d62e96f9,every,79,
->>>>>>> 09f2752... 00040013
->>>>>>> 3ac96d5... 00040013
+manifest/masterdata2_assetmanifest,3dd8d63f87130f9964633de4d10993be,every,79,
 manifest/minigame2_assetmanifest,123e787a9df42a19f8c2d8dc62087c35,every,17228,
 manifest/resourcedefine2_assetmanifest,fee2bcfe6e0f4c4032d0dd744d817367,every,271,
 manifest/room2_assetmanifest,1ee499b934f69ddf2eeb5ac475a7a30d,every,151530,
 manifest/shader2_assetmanifest,24b8b64d2f3eea93f5641c0b6c621257,every,74,
 manifest/spine2_assetmanifest,eaa06a41bb75889ba49c27ebbdf8fda9,every,259075,
-manifest/storydata2_assetmanifest,7855e277b05f68b3189f25b0106ed220,every,645359,
+manifest/storydata2_assetmanifest,28634d901f00b7a006fb6bb3b20551d3,every,645355,
 manifest/unit2_assetmanifest,3e90ecdb98b31fc2a07858c3f2104055,every,215101,
