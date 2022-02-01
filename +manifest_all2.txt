@@ -220,7 +220,7 @@ a/all_atlasquestunitexpand.unity3d,129b9b0d5a210ddaf8b70d6660a60014,tutorial1,10
 a/all_atlasrace.unity3d,78eb118026241f0f91c792d8258e3667,tutorial1,291310,
 a/all_atlasrareiconeffect.unity3d,6d8b563a88326feddd8bd633a6ca5c39,tutorial1,27117,
 a/all_atlasrarityup.unity3d,f8a4de043de4cbd1a8eb15698f2dc261,tutorial1,579885,
-a/all_atlasredeemunit.unity3d,8973bbacdad52f5ef3e2a7da99bc65d9,tutorial1,157728,
+a/all_atlasredeemunit.unity3d,2d11460b97caee992cb3f53006408567,tutorial1,158567,
 a/all_atlasredeemunitrelease118501.unity3d,a46818b7dabf3c33c43ce251cf539d22,tutorial1,662060,
 a/all_atlasresult.unity3d,78a571892dc7035eb9073a3d58c79f6a,tutorial1,29564,
 a/all_atlasresult10035.unity3d,c917c69c0325dad91a84c2b40d2884da,tutorial1,19367,
