@@ -823,7 +823,7 @@ a/event_thumb_minigame_10067.unity3d,c3566f247a765f42a98752ef31c5d19c,common,137
 a/event_thumb_minigame_10072.unity3d,b769d0eb1d84b1ca4583d493309e6a20,common,21584,
 a/event_thumb_minigame_10073.unity3d,f128a9fbb51aab0bb994ba5c1a060836,common,18134,
 a/event_thumb_minigame_10080.unity3d,1a1768bbd527f5be8b03e65d48919812,common,17971,
-a/event_thumb_nop_10082.unity3d,ad5d5635167fcaf7de2bd11790f002e6,common,22654,
+a/event_thumb_nop_10082.unity3d,6cffdd680dcdb436e45636e3b2cb2778,common,22675,
 a/event_thumb_nyx_10038.unity3d,e0b053e66e0ef721990f8c71901c4377,common,13189,
 a/event_thumb_nyx_20023.unity3d,70f999d710abc4de1e0cc6f7efd86951,common,13189,
 a/event_thumb_omp_10062.unity3d,a0086e011cd85b7685cd8093b6b19aba,common,20314,
