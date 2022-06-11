@@ -6064,6 +6064,7 @@ a/storydata_movie_211100301.unity3d,416b7a9fcf417c1104df642e00f956f3,common,2383
 a/storydata_movie_211100701.unity3d,0e48fc5558c39b382bf82227507ab2b0,common,2397,
 a/storydata_movie_211100901.unity3d,ad68c5222850951e5bb6382febd3ccbd,common,2517,
 a/storydata_movie_211101081.unity3d,3040a68ba4acaa55f19a0b6c01433577,common,2258,
+a/storydata_movie_211200001.unity3d,d52ba73907a8f947c29f38210fd558f3,common,1916,
 a/storydata_movie_211200101.unity3d,173c9479149e8aa94141afbab3aae837,common,2269,
 a/storydata_movie_211200501.unity3d,30b88acf5a9bc26917651a0fccc518b7,common,2055,
 a/storydata_movie_211200701.unity3d,6c989d3076cd97adc3d2ef40469c9536,common,2174,
