@@ -154,7 +154,7 @@ a/all_atlasminigamesrtanimation.unity3d,cdec855c088214c2b993edc867c4c2f1,tutoria
 a/all_atlasminigamesrtpanel.unity3d,759888e812d388fd1ff79308bccc5324,tutorial1,926924,
 a/all_atlasminigamesrtpanel2.unity3d,6ca95169541dcbda44188b5db28fb11b,tutorial1,371667,
 a/all_atlasminigamesrtpaneleffect.unity3d,419e4d96cecf5c26c22b5fca825020c9,tutorial1,15926,
-a/all_atlasminigametaq.unity3d,3d6b75ad48128a35b2281a8561306d3a,tutorial1,415955,
+a/all_atlasminigametaq.unity3d,fb8585f329caabe23fb4a6c3e8193272,tutorial1,416825,
 a/all_atlasminigametaqanimation.unity3d,77989580ada8591f1b8d51d70f3b00ef,tutorial1,688350,
 a/all_atlasminigametaqgamemain.unity3d,2d7a391037feb802be607c9eb45046c4,tutorial1,127441,
 a/all_atlasminigametaqtop.unity3d,9a0e253aeed4c7722b3ecb04cc6c24fe,tutorial1,48218,
