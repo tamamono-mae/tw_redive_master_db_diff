@@ -135,7 +135,7 @@ a/event_burst_img_boss_3006.unity3d,ee521fb475ab211f677919ee96204e21,common,5997
 a/event_burst_img_boss_3007.unity3d,b120482a905d03a0607ba7f87fb402d9,common,59819,
 a/event_completeeffect_001.unity3d,536bf043643212dfa583dc5e168be4f0,common,245155,
 a/event_dmf.unity3d,43d1266023cc66ede0f7395a569c0681,common,1089014,
-a/event_dsb.unity3d,4513be132930d5c3725b55b9196efeb3,common,6227971,
+a/event_dsb.unity3d,d15262919e7c1cc83b3a3bce5be1637b,common,6227973,
 a/event_ekiden.unity3d,d6fbf71c6e7e86edc71b56ac5c7fb9e5,common,1059473,
 a/event_ekidentexture.unity3d,2e808985cae78fe75378fe164386c970,common,4796360,
 a/event_enk_letter_01.unity3d,a13c9822d4dd85483b7504be65f88cd8,common,90143,
