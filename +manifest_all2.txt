@@ -630,7 +630,7 @@ a/all_battleunit_124801.unity3d,cf3b2ae94af84ad5f8245c3ddef60236,tutorial1,13455
 a/all_battleunit_124901.unity3d,82902dcc21a1dc7e4f3298c9550857b1,tutorial1,1884157,
 a/all_battleunit_125001.unity3d,e810bb2ac1c73384aea106f4002aab43,tutorial1,1845078,
 a/all_battleunit_125101.unity3d,b4ca5f472ed8b8faffe8cb8ecacbfb1b,tutorial1,1487653,
-a/all_battleunit_125201.unity3d,6808bf35b64f4ffaffa8bcb7e85b07ca,tutorial1,925643,
+a/all_battleunit_125201.unity3d,3475f103489cb449e27bb036eda0af2b,tutorial1,909503,
 a/all_battleunit_125301.unity3d,599dfa97f793d5a4b0392d28a7439b1d,tutorial1,628168,
 a/all_battleunit_125401.unity3d,027982baf1817300193f56ad0d3254f4,tutorial1,1958712,
 a/all_battleunit_125501.unity3d,8a98002d9ce2471507d30d5421422fbb,tutorial1,1388704,
