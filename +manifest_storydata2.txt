@@ -11938,7 +11938,7 @@ a/storydata_tw_movie_000124631.unity3d,c69d756bcc1316dd12c51dc722e34ffa,common,1
 a/storydata_tw_movie_000124831.unity3d,69f8b42707aa8b4ddb0aed7d67a48ef1,common,1977,
 a/storydata_tw_movie_000125031.unity3d,0b317143c0233fe3eb0d0c3b5d7a20d5,common,1956,
 a/storydata_tw_movie_000125131.unity3d,9d5b2b26494dcc36077f7a67b5f50abe,common,1971,
-a/storydata_tw_movie_000125231.unity3d,ef3587fb44474040faf4577d95cdf454,common,1952,
+a/storydata_tw_movie_000125231.unity3d,599797ae200552e5634c4479e9db4888,common,1952,
 a/storydata_tw_movie_000125331.unity3d,94c160396241e176a4239efb5c6b988d,common,1973,
 a/storydata_tw_movie_000125431.unity3d,86b00607d51fef55bd5093720d66f094,common,1960,
 a/storydata_tw_movie_000125831.unity3d,ed79c6db8a7813afbc0822e31314c771,common,1952,
