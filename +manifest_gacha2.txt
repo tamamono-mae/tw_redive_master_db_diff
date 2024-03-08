@@ -1,0 +1,5 @@
+a/gacha_gacha_ttl_limitedchara_0.unity3d,58bfc0003f26b482eca382b56f3c4e59,common,26320,
+a/gacha_gacha_ttl_pickup_0.unity3d,71ccf86f1c9f5ad9fdc4a82f68a03cba,common,26051,
+a/gacha_gacha_ttl_prize_0.unity3d,15d38daaeea2eb42809dbed66409efd7,common,27177,
+a/gacha_gacha_ttl_prize_1.unity3d,429c1e0df366be729c5759b720039ca6,common,26833,
+a/gacha_gacha_ttl_starlegend_0.unity3d,775e8f039f2ca6581d353759681a6087,common,27869,
